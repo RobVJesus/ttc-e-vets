@@ -42186,17 +42186,6 @@
    "replyTo": null
   },
   {
-   "id": 3811,
-   "date": "05/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Entra no Google e coloca Bp online Marinha",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Entra no Google e coloca Bp online Marinha",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3812,
    "date": "05/05/26",
    "sender": "Veterano #229",
@@ -45180,17 +45169,6 @@
    "replyTo": null
   },
   {
-   "id": 4080,
-   "date": "29/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Chave PIX abaixo",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Chave PIX abaixo",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4081,
    "date": "29/05/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -45198,17 +45176,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4082,
-   "date": "29/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Chave PIX para o evento em nome de ORLANDO GILBERTO MOREIRA LEITE",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Chave PIX para o evento em nome de ORLANDO GILBERTO MOREIRA LEITE",
    "icon": "",
    "replyTo": null
   },
@@ -45466,17 +45433,6 @@
    "replyTo": null
   },
   {
-   "id": 4106,
-   "date": "31/05/26",
-   "sender": "5521-SII-Valdomiro Ageu",
-   "text": "Muito obrigado SO mesquita",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Muito obrigado SO mesquita",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4107,
    "date": "31/05/26",
    "sender": "TTC+Scheison Eduardo Serra",
@@ -45515,7 +45471,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "A informação solicitada já foi esclarecida. Vamos focar nos objetivos do Grupo pedir ajuda e prestar ajuda. Detalhes e depoimentos não cabem aqui.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "A informação solicitada já foi esclarecida. Vamos focar nos objetivos do Grupo pedir ajuda e prestar ajuda. Detalhes e depoimentos não cabem aqui.",
    "icon": "",
    "replyTo": null
@@ -45594,17 +45550,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Encontrei o erro, isto mesmo, falta de atenção. Obrigado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4118,
-   "date": "01/06/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
    "icon": "",
    "replyTo": null
   },
@@ -46071,17 +46016,6 @@
    "replyTo": null
   },
   {
-   "id": 4161,
-   "date": "03/06/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "f81c8516-7eb9-42b3-bcff-97fdc60244df",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4162,
    "date": "03/06/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -46153,7 +46087,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Quem fez o PIX e vai no evento me manda no privado o mais breve possível a relação com nome das pessoas que vai levar.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Quem fez o PIX e vai no evento me manda no privado o mais breve possível a relação com nome das pessoas que vai levar.",
    "icon": "",
    "replyTo": null
@@ -46649,17 +46583,6 @@
    "replyTo": null
   },
   {
-   "id": 4213,
-   "date": "12/06/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Sim. Tá fora do ar\nADMIN",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Sim. Tá fora do ar",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4214,
    "date": "14/06/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -46954,7 +46877,7 @@
     "https://www.facebook.com/share/r/1CZgEXHcV5/"
    ],
    "category": "links_uteis",
-   "title": "",
+   "title": "Associação de Veteranos do CFN",
    "icon": "",
    "replyTo": null
   },
@@ -47933,7 +47856,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Fim de proteger quem perdeu o documento. Favor cobrir os dados sensíveis.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Fim de proteger quem perdeu o documento. Favor cobrir os dados sensíveis.",
    "icon": "",
    "replyTo": null
@@ -48751,7 +48674,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Boa noite a todos.\nHj a tarde um companheiro do Grupo achou por bem fazer um relato no qual reclamava de um atendimento num OM da MB. Quero deixar bem claro aqui que a Administração do Grupo não é contra você reclamar por seus DIREITOS. Só que existem meios para isso. Caso vc se ache mal atendido a sugestão é pedir para falar com um Supervisor (toda OM tem um). E caso não se dê por satisfeito use a OUVIDORIA.\nAgora vir aqui no Grupo ficar fazendo explanações que só incitam a outros a fazerem também não é a melhor forma. E não será tolerado aqui no Grupo.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Boa noite a todos.",
    "icon": "",
    "replyTo": null
@@ -48874,17 +48797,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "👆🏻👆🏻",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4414,
-   "date": "17/07/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Pessoal que anda cheio de dúvidas sobre esse lance de Dependentes. Da uma olhada nessa publicação acima.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Pessoal que anda cheio de dúvidas sobre esse lance de Dependentes. Da uma olhada nessa publicação acima.",
    "icon": "",
    "replyTo": null
   },
@@ -49558,17 +49470,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa tarde!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4476,
-   "date": "30/07/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Vou te chamar no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Vou te chamar no PV",
    "icon": "",
    "replyTo": null
   },
