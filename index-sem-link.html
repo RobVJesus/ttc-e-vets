@@ -102,10 +102,7 @@
   .badge svg{width:12px;height:12px;}
   .badge .emoji{font-size:13px; line-height:1;}
   .card-date{margin-left:auto; font-size:11px; color:var(--cinza-600);}
-  .card-title{
-    font-size:14.5px; font-weight:600; color:var(--cinza-900); line-height:1.35; word-break:break-word; overflow-wrap:anywhere;
-    background:none; border:none; padding:0; margin:0; text-align:left; font-family:inherit; cursor:pointer; display:block;
-  }
+  .card-title{font-size:14.5px; font-weight:600; color:var(--cinza-900); line-height:1.35; word-break:break-word; overflow-wrap:anywhere;}
   .card-title.empty-title{color:var(--cinza-600); font-weight:500; font-style:italic;}
   .card-text{
     font-size:13px; color:var(--cinza-600); line-height:1.45; white-space:pre-wrap; word-break:break-word; overflow-wrap:anywhere;
@@ -258,9 +255,7 @@
     .btn-danger:hover{background:#fef2f2;}
     .cat-row button:hover{background:var(--azul-100); color:var(--azul-700);}
     .cat-row button.danger:hover{background:#fef2f2; color:#b91c1c;}
-    .card-title:hover{color:var(--azul-700); text-decoration:underline;}
   }
-  .card-title:active{color:var(--azul-700);}
   .card:active{border-color:var(--azul-600);}
 </style>
 </head>
@@ -381,7 +376,6 @@
   <div class="modal" id="threadModal">
     <h3>Pergunta e respostas vinculadas</h3>
     <div id="threadContent"></div>
-    <button class="btn-primary" id="btnAddAnswerThread" style="margin-top:6px; width:100%;">+ Adicionar resposta a esta pergunta</button>
     <div class="modal-actions">
       <button class="btn-secondary" id="btnCloseThread">Fechar</button>
     </div>
@@ -671,7 +665,7 @@ function cardHtml(it, cats){
       <span class="card-date">${escapeHtml(it.date||'')}</span>
     </div>
     ${replyQuote}
-    ${title ? `<button type="button" class="card-title" data-thread="${escapeHtml(String(it.id))}">${title}</button>` : ''}
+    ${title ? `<div class="card-title">${title}</div>` : ''}
     ${text}
     ${answersBtn}
     ${links ? `<div class="card-links">${links}</div>` : ''}
@@ -684,7 +678,6 @@ function cardHtml(it, cats){
 
 // ---------- Thread: pergunta + respostas vinculadas ----------
 const overlayThread = document.getElementById('overlayThread');
-let CURRENT_THREAD_QID = null;
 
 function threadItemHtml(it, isQuestion){
   const senderLabel = (it.sender && it.sender !== OWNER_SENDER) ? ` · ${escapeHtml(it.sender)}` : '';
@@ -700,7 +693,6 @@ function threadItemHtml(it, isQuestion){
 function openThread(questionId){
   const question = ITEM_INDEX[String(questionId)];
   if(!question) return;
-  CURRENT_THREAD_QID = questionId;
   const all = getAllItems();
   const answers = all.filter(it => String(it.replyTo||'') === String(questionId))
     .sort((a,b) => (a.date||'').localeCompare(b.date||''));
@@ -720,17 +712,6 @@ function openThread(questionId){
 
 document.getElementById('btnCloseThread').addEventListener('click', () => overlayThread.classList.remove('show'));
 overlayThread.addEventListener('click', (e) => { if(e.target === overlayThread) overlayThread.classList.remove('show'); });
-
-document.getElementById('btnAddAnswerThread').addEventListener('click', () => {
-  const qid = CURRENT_THREAD_QID;
-  const target = qid != null ? ITEM_INDEX[String(qid)] : null;
-  overlayThread.classList.remove('show');
-  openModal();
-  if(target){
-    fReplyTo.value = String(qid);
-    showReplySelection(target);
-  }
-});
 
 // ---------- Campo "Respondendo a": busca e seleção do vínculo ----------
 const fReplySearch = document.getElementById('fReplySearch');
