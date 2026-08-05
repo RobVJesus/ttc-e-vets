@@ -206,10 +206,8 @@
   @media (max-width:860px){
     .layout{grid-template-columns:1fr;}
     .cats{
-      position:static; flex-direction:row; overflow-x:auto; max-height:none; padding-bottom:4px;
-      -webkit-overflow-scrolling:touch; scrollbar-width:none;
+      position:static; flex-direction:row; flex-wrap:wrap; overflow-x:visible; max-height:none; padding-bottom:4px;
     }
-    .cats::-webkit-scrollbar{display:none;}
     .cat-btn{flex:none; width:auto; white-space:nowrap;}
     .cats-manage{flex:none;}
   }
@@ -500,9 +498,8 @@ function getCategories(){
   return cats;
 }
 function getCategoryOrder(){
-  const order = CAT_ORDER.filter(id => !catDeleted.includes(id));
-  Object.keys(catAdded).forEach(id => { if(!catDeleted.includes(id) && !order.includes(id)) order.push(id); });
-  return order;
+  const cats = getCategories();
+  return Object.keys(cats).sort((a,b) => cats[a].localeCompare(cats[b], 'pt-BR'));
 }
 function fallbackCategory(){
   const order = getCategoryOrder();
