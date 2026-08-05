@@ -9,9 +9,9 @@
   "juridico": "Jurídico",
   "seguranca_golpes": "Segurança & Golpes",
   "avisos_grupo": "Avisos do Grupo",
-  "links_uteis": "Links & Sites Úteis",
+  "links_uteis": "Contatos & Sites Úteis-transferir",
   "diversos_texto": "Perguntas & Respostas Diversas",
-  "contatos_uteis": "Contatos Úteis",
+  "contatos_uteis": "Contatos & Sites Úteis",
   "familia_naval": "Família Naval"
  },
  "items": [
@@ -3572,7 +3572,9 @@
    "date": "04/09/25",
    "sender": "Veterano #52",
    "text": "Bom dia. Qual a possibilidade de algum amigo me falar se a prova de vida feita pela Gov.br , é válida.",
-   "urls": [],
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
    "category": "diversos_texto",
    "title": "Bom dia. Qual a possibilidade de algum amigo me falar se a prova de vida feita pela Gov.br , é válida.",
    "icon": "",
@@ -3638,7 +3640,9 @@
    "date": "04/09/25",
    "sender": "Veterano #43",
    "text": "AFI. Fiz minha prova de vida, via  gov.br, agora no mês de agosto. É só colocar no google \"prova de vida, via gov.br\" e o caminho é disponibilizado.",
-   "urls": [],
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
    "category": "diversos_texto",
    "title": "AFI. Fiz minha prova de vida, via  gov.br, agora no mês de agosto. É só colocar no google \"prova de vida, via gov.br\" e o caminho é disponibilizado.",
    "icon": "",
@@ -13900,8 +13904,10 @@
    "id": 1256,
    "date": "04/11/25",
    "sender": "Veterano #127",
-   "text": "Participo que realizei a Prova de Vida, agora no site ORG.BR, após fazer a  Leitura Facial, perfeito.",
-   "urls": [],
+   "text": "Participo que realizei a Prova de Vida, agora no site https://www.gov.br/pt-br, após fazer a  Leitura Facial, perfeito.",
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
    "category": "diversos_texto",
    "title": "Participo que realizei a Prova de Vida, agora no site ORG.BR, após fazer a  Leitura Facial, perfeito.",
    "icon": "",
@@ -49508,17 +49514,6 @@
    "replyTo": null
   },
   {
-   "id": 4480,
-   "date": "30/07/26",
-   "sender": "Veterano #165",
-   "text": "???",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "???",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4481,
    "date": "30/07/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -50674,6 +50669,32 @@
    "title": "Serviço De Assistencia Funeral",
    "icon": "",
    "replyTo": null
+  },
+  {
+   "id": "c1785938226484",
+   "date": "05/08/2026",
+   "sender": null,
+   "text": "",
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
+   "category": "saude_atendimento",
+   "icon": "",
+   "replyTo": 4482,
+   "title": ""
+  },
+  {
+   "id": "c1785938265486",
+   "date": "05/08/2026",
+   "sender": null,
+   "text": "",
+   "urls": [
+    "https://www.gov.br/pt-br"
+   ],
+   "category": "saude_atendimento",
+   "icon": "",
+   "replyTo": 4483,
+   "title": "Prova de vida"
   }
  ]
 }
