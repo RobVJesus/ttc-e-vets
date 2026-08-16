@@ -4,12 +4,11 @@
   "financas_beneficios": "Finanças & Benefícios",
   "documentos_dependencia": "Documentos & Dependência",
   "falecimento": "Notas de Falecimento",
-  "vagas_ttc": "Vagas de TTC",
+  "vagas_ttc": "Oportunidades e vagas de TTC",
   "alojamento_hospedagem": "Alojamento & Hospedagem",
   "juridico": "Jurídico",
   "seguranca_golpes": "Segurança & Golpes",
   "avisos_grupo": "Avisos do Grupo",
-  "links_uteis": "Oportunidades",
   "diversos_texto": "Perguntas & Respostas Diversas",
   "contatos_uteis": "Contatos & Sites Úteis",
   "familia_naval": "Família Naval"
@@ -65,7 +64,7 @@
    "sender": "5521-SO Mesquita",
    "text": "Outros pontos importantes:\nO grupo é para ajudar nos métodos legais exemplo de ajuda certo:\nTem alguém do HNMD que possa me orientar sobre um exame?\nExemplo ERRADO:\nTem alguém do HNMD parae cochar um exame?\nRelembro o Grupo não é para chutar ou lesar o sistema.\nOutro ponto importante:\nNão UTILIZE O GRUPO PARA MALHAR A MARINHA. Nós sabemos que a MB tem seus defeitos e algumas dificuldades principalmente na área da saúde. Mais a função do Grupo é ajudar nos meus legais. Se vc que malhar o sistema pode sair agora do Grupo.\nTerceiro ponto.\nNOTAS DE FALECIMENTO apesar de desagradáveis são para serem postadas aqui no Grupo. Entretanto não é permitido as postagens do tipo: \nQUE DEUS CONFORTE A FAMILIA. \nQUE DEUS O RECEBA etc.\nSomos muitos e essas mensagens não levam a nada. Para evitar isso, sempre que alguém postar uma Nota de Falecimento. FAVOR trazer todas as informações como velório e sepultamento é um TEL DE CONTATO DE FAMILIARES. Para onde deve ser enviado essas notas de falecimento.\nOutro ponto importante.\nMENSAGEM POLITICA E PEDERASTIA É EXPULSÃO IMEDIATA DO GRUPO. Para que não sabe já tivemos informe de militares da Inteligência inclusive de OFICIAIS que se infiltraram no Grupo só para ficar de olho nessas postagens.\nOutro ponto importante.\nÉ EXPRESSAMENTE PROIBIDO postagem de pessoas do tipo internadas pedindo auxílio FINANCEIRO.\nE por último tbm não é permitido propaganda de qualquer tipo. Exemplo se alguém perguntar. Preciso de um contato de caminhão de mudança? Quem for prestar a ajuda envie para o Privado da pessoa.\nADMIN",
    "urls": [],
-   "category": "falecimento",
+   "category": "avisos_grupo",
    "title": "Outros pontos importantes:",
    "icon": "",
    "replyTo": null
@@ -274,7 +273,7 @@
    "sender": "5521-SO Mesquita",
    "text": "Já deixei bem claro que não é permitido propaganda no Grupo. Até porque temos outros advogados aqui no grupo. Favor enviar dados no Privado. E faça a divulgação no BALCÃO DE NEGÓCIOS. Como já foi mencionado.\nADMIN",
    "urls": [],
-   "category": "juridico",
+   "category": "avisos_grupo",
    "title": "Já deixei bem claro que não é permitido propaganda no Grupo. Até porque temos outros advogados aqui no grupo. Favor enviar dados no Privado. E faça a …",
    "icon": "",
    "replyTo": null
@@ -947,7 +946,7 @@
    "sender": "Veterano #4",
    "text": "A minha vizinha enquanto o esposo era vivo recebia proventos de 2°TEN, quando ele faleceu a marinha voltou a pagar os proventos de 2°SG pra ela. Não sei que parâmetro a marinha usou",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "A minha vizinha enquanto o esposo era vivo recebia proventos de 2°TEN, quando ele faleceu a marinha voltou a pagar os proventos de 2°SG pra ela. Não s…",
    "icon": "",
    "replyTo": null
@@ -1277,7 +1276,7 @@
    "sender": "Veterano #22",
    "text": "Filha que recebe pensão não tem direito ao sistema de saúde.  A menos que seja inválida comprovada antes do falecimento do titular.",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "Filha que recebe pensão não tem direito ao sistema de saúde.  A menos que seja inválida comprovada antes do falecimento do titular.",
    "icon": "",
    "replyTo": null
@@ -1527,10 +1526,10 @@
   {
    "id": 139,
    "date": "23/08/25",
-   "sender": "Roberto Jesus",
+   "sender": null,
    "text": "A depressão pode atingir outros membros da família. Minha esposa se aposentou há mai de 15 anos e ainda luta comtra a doença. Mas a família inteira sofre também. Falo por experiência própria. Quem desejar desabafar, mande mensagem no privado.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "saude_atendimento",
    "title": "A depressão pode atingir outros membros da família. Minha esposa se aposentou há mai de 15 anos e ainda luta comtra a doença. Mas a família inteira so…",
    "icon": "",
    "replyTo": null
@@ -2372,7 +2371,7 @@
    "sender": "Veterano #22",
    "text": "Dependente não.  Ela pode ser se ele pagava 1,5% ou ter falecido antes de 2001, depois da mãe",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "Dependente não.  Ela pode ser se ele pagava 1,5% ou ter falecido antes de 2001, depois da mãe",
    "icon": "",
    "replyTo": null
@@ -3133,7 +3132,7 @@
    "sender": "Veterano #49",
    "text": "Seguro velório.",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "Seguro velório.",
    "icon": "",
    "replyTo": null
@@ -4178,7 +4177,7 @@
    "sender": "Veterano #25",
    "text": "CPF do instituidor, é o CPF do militar falecido?",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "CPF do instituidor, é o CPF do militar falecido?",
    "icon": "",
    "replyTo": null
@@ -4189,7 +4188,7 @@
    "sender": "TTC+Sérgio BATISTA",
    "text": "Sim Nilton, \n\nO “CPF do Instituidor” é o CPF do militar falecido (quem originou o benefício), e não o da pensionista.\n\n👉 A pensionista é quem recebe o benefício, mas, para o e-Social e para a Receita Federal, o cadastro precisa estar vinculado também ao CPF do instituidor, ou seja, do militar que deu origem à pensão.\n\nPortanto:\n\nInstituidor = militar falecido\n\nPensionista = quem recebe a pensão\n\n\nÉ esse CPF do instituidor (do militar falecido) que deve estar corretamente informado no cadastro, para evitar problemas futuros.",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "Sim Nilton,",
    "icon": "",
    "replyTo": null
@@ -4222,7 +4221,7 @@
    "sender": "TTC+Sérgio BATISTA",
    "text": "Caros veteranos,\n\nA partir de 2026, toda a gestão de dados da Proteção Social passará a ser feita pelo e-Social. Isso exige atenção especial de todos nós que temos familiares pensionistas.\n\nO ponto principal é a obrigatoriedade do CPF do Instituidor — ou seja, o CPF do militar falecido que deu origem ao benefício. Mesmo após o falecimento, o CPF não é cancelado; ele continua válido e serve para identificar de forma única o instituidor do benefício.\n\nSe esse dado não estiver devidamente registrado no sistema, a pensionista pode ter problemas fiscais e até dificuldades no recebimento da pensão.\n\n👉 Por isso, é fundamental não deixar para a última hora. A orientação é procurar a Receita Federal mais próxima para verificar se o CPF do instituidor já consta corretamente no cadastro.",
    "urls": [],
-   "category": "falecimento",
+   "category": "documentos_dependencia",
    "title": "Caros veteranos,",
    "icon": "",
    "replyTo": null
@@ -4277,7 +4276,7 @@
    "sender": "Veterano #22",
    "text": "Tem que informa o falecimento no svpm e lá eles dão o direcionamento",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Tem que informa o falecimento no svpm e lá eles dão o direcionamento",
    "icon": "",
    "replyTo": null
@@ -4822,17 +4821,6 @@
    "replyTo": null
   },
   {
-   "id": 439,
-   "date": "19/09/25",
-   "sender": "Veterano #63",
-   "text": "Resposta no pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Resposta no pv",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 440,
    "date": "19/09/25",
    "sender": "TTC+VALDEGIR SIQUEIRA",
@@ -4917,17 +4905,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Eu não consegui salvar e já fiz isso sem querer, ao tentar envia um pix para minha filha comprar remédio e fiquei na onça",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 448,
-   "date": "20/09/25",
-   "sender": "Veterano #55",
-   "text": "Mandei no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Mandei no PV",
    "icon": "",
    "replyTo": null
   },
@@ -5792,17 +5769,6 @@
    "replyTo": null
   },
   {
-   "id": 527,
-   "date": "07/10/25",
-   "sender": "Veterano #72",
-   "text": "Falando contigo no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Falando contigo no PV",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 528,
    "date": "07/10/25",
    "sender": "Veterano #56",
@@ -6320,17 +6286,6 @@
    "replyTo": null
   },
   {
-   "id": 575,
-   "date": "18/10/25",
-   "sender": "Veterano #31",
-   "text": "Me chame no privado.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chame no privado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 576,
    "date": "18/10/25",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -6349,17 +6304,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Criando uma comunidade para juntar os dois grupos não fica mais fácil a troca de informações?",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 578,
-   "date": "18/10/25",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Vou te responder no privado.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Vou te responder no privado.",
    "icon": "",
    "replyTo": null
   },
@@ -6536,7 +6480,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Sobre notas de falecimento. Logicamente podem e devem ser postadas. Só pedimos para quem informar se possível passar detalhes de velório e sepultamento. E principalmente um telefone de contato de algum familiar para quem desejar passar notas de pesar.\nPedimos para não ficar replicando notas do tipo: Que Deus o tenha, Meus sentimentos a familiares etc.\nPara não poluir o Grupo.\nADMIN",
    "urls": [],
-   "category": "falecimento",
+   "category": "avisos_grupo",
    "title": "Sobre notas de falecimento. Logicamente podem e devem ser postadas. Só pedimos para quem informar se possível passar detalhes de velório e sepultament…",
    "icon": "",
    "replyTo": null
@@ -6712,7 +6656,7 @@
    "sender": "Veterano #87",
    "text": "O Velório do nosso Colega, Neves, ocorrerá amanhã, das 08h às 10h. (Ao lado do Hospital da Missão, no centro de SPA). E o Sepultamento está previsto pra 10:30h. No Cemiterio Municipal de SPA (Bairro Retiro).",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "O Velório do nosso Colega, Neves, ocorrerá amanhã, das 08h às 10h. (Ao lado do Hospital da Missão, no centro de SPA). E o Sepultamento está previsto p…",
    "icon": "",
    "replyTo": null
@@ -6767,7 +6711,7 @@
    "sender": "Veterano #87",
    "text": "Mudança do local do velório.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Mudança do local do velório.",
    "icon": "",
    "replyTo": null
@@ -7033,7 +6977,7 @@
    "sender": "Veterano #95",
    "text": "Boa noite tenho uma dúvida, com relação ao desconto no contracheque onde eu fiz a opção de descontar para que minha filha receba pensão, a pergunta é, no caso do meu falecimento e da minha esposa e minha filha sendo casada ela recebe a pensão?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Boa noite tenho uma dúvida, com relação ao desconto no contracheque onde eu fiz a opção de descontar para que minha filha receba pensão, a pergunta é,…",
    "icon": "",
    "replyTo": null
@@ -7292,7 +7236,7 @@
    "sender": "Veterano #98",
    "text": "Boa noite \nTire uma dúvida \nTem uma pessoa aqui na minha OM que tem  4 filhos \n3 meninas \n1 menino \nÉ divorciado e paga 1,5 por cento no bilhete \nEm 2023 ele casou  com uma viúva  de um sub de marinha  no regime comunhao separacao total de bens quando ele casou com ela ele  ja tinha uma casa no nome dele \nela tem 2 filhas do falecido e também pagava 1,5 por cento \nMinha dúvida quando ele  falecer o que a viuva tem direito  e o que os  filhos dele vão ter direito \nLembrando que \nEla é pensionista de marinha e não colocou ela  como   dependente pela marinha pq ela não quis \nRegime de comunhão separação total de bens \nEla tem a casa dela e ele  a dele",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Boa noite",
    "icon": "",
    "replyTo": null
@@ -7325,7 +7269,7 @@
    "sender": "Veterano #98",
    "text": "Essa é minha dúvida \nO sr pode me esclarecer por favor \nLembrando que ele é casado no juiz mas ela não é  dependente pelo fusma nada na marinha pq já recebe pensão do falecido",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Essa é minha dúvida",
    "icon": "",
    "replyTo": null
@@ -7380,7 +7324,7 @@
    "sender": "Veterano #98",
    "text": "Desculpa a última dúvida \nPq ele achava que 50 por cento seria para a viuva \nA viuva pode receber  pensão   mesmo já recebendo pensão do falecido ?\nOs outros 50 por cento seria dividido para os filhos",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Desculpa a última dúvida",
    "icon": "",
    "replyTo": null
@@ -8167,17 +8111,6 @@
    "replyTo": null
   },
   {
-   "id": 742,
-   "date": "20/10/25",
-   "sender": "Veterano #72",
-   "text": "Falei contigo no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Falei contigo no PV",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 743,
    "date": "20/10/25",
    "sender": "TTC-🍺Flavio Lima 🎣",
@@ -8205,7 +8138,7 @@
    "sender": "Veterano #22",
    "text": "Tem que fazer a perícia para comprovação da invalidez antes do falecimento do pai. Ideal.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Tem que fazer a perícia para comprovação da invalidez antes do falecimento do pai. Ideal.",
    "icon": "",
    "replyTo": null
@@ -8645,7 +8578,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "REGRAS DO GRUPO \n\n*Grupo TTC e Veteranos*\n\nFoi criado um grupo no WhatsApp com o objetivo de transmitir informações úteis para militares na reserva, reformados e TTC. A função do Grupo é ajudar os participantes no acesso aos meios legais, dentro do regulamento. Quem desejar participar deve entrar em contato pelo número +55 21 97500-3195, SO Mesquita. \n\nAs seguintes regras devem ser seguidas para o bom funcionamento do grupo:\n\nPostagens proibidas:\n. Mensagens sem conteúdo útil, como \"bom dia\", \"boa semana\", \"sextou\", emojis etc. \n\n. Mensagens sobre esportes, principalmente futebol, só ocupam espaço e não agregam. \n\n. Mensagens que divulgam modos de *chutar* ou lesar o Sistema Naval. \n\n. Mensagens que *malhem* a Marinha. \n\n. Mensagens de conteúdo político e/ou pornô - o autor será expulso imediatamente do grupo. \n\n. Mensagens com propaganda de qualquer tipo. \n\nPostagens permitidas:\n. Notas de falecimento - apesar de desagradáveis, podem é devem ser postadas no Grupo, desde que tragam todas as informações, como nome do falecido local e hora de velório e sepultamento, telefones de familiares. No entanto não é permitido o envio de condolências ou orações. As mesmas devem ser enviadas aos contatos de familiares e amigos. \n\n. O grupo também adotará a Lei do Silêncio: entre as 22:00 e as 6:00 somente postagens de *emergência*. \n\nÉ importante salientar que já tivemos informes de militares da Inteligência, que se infiltraram nos grupos só para ficar de olho nas postagens. Nós sabemos que a MB tem suas dificuldades, principalmente na área da saúde. Mas o objetivo deste grupo é apontar caminhos lícitos em busca de soluções. Opiniões pessoais não serão toleradas nas postagens. Vamos manter o bom convívio e evitar o constrangimento de ter mensagens apagadas ou ser excluído do grupo.",
    "urls": [],
-   "category": "falecimento",
+   "category": "avisos_grupo",
    "title": "REGRAS DO GRUPO",
    "icon": "",
    "replyTo": null
@@ -8658,17 +8591,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Bom dia a todos,",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 787,
-   "date": "21/10/25",
-   "sender": "Veterano #72",
-   "text": "Fala comigo no PV.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Fala comigo no PV.",
    "icon": "",
    "replyTo": null
   },
@@ -9828,17 +9750,6 @@
    "replyTo": null
   },
   {
-   "id": 893,
-   "date": "21/10/25",
-   "sender": "Veterano #31",
-   "text": "Me chama no privado que posso te orientar.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no privado que posso te orientar.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 894,
    "date": "21/10/25",
    "sender": "Veterano #134",
@@ -10136,17 +10047,6 @@
    "replyTo": null
   },
   {
-   "id": 921,
-   "date": "21/10/25",
-   "sender": "Veterano #31",
-   "text": "Me chama no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 922,
    "date": "21/10/25",
    "sender": "TTC+Wagner",
@@ -10176,17 +10076,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Agradeço muito as informações",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 925,
-   "date": "21/10/25",
-   "sender": "Veterano #31",
-   "text": "Já orientei o veterano no PV.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Já orientei o veterano no PV.",
    "icon": "",
    "replyTo": null
   },
@@ -10495,17 +10384,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Atenção senhores, por favor, vamos ter a consciência e prestar atenção ao que o administrador coloca desde o início a respeito de postagens.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 954,
-   "date": "23/10/25",
-   "sender": "Veterano #135",
-   "text": "FALA COMIGO NO PRIVADO.\n\nDagoberto",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "FALA COMIGO NO PRIVADO.",
    "icon": "",
    "replyTo": null
   },
@@ -10823,7 +10701,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "REGRAS DO GRUPO \n\n*Grupo TTC e Veteranos*\n\nFoi criado um grupo no WhatsApp com o objetivo de transmitir informações úteis para militares na reserva, reformados e TTC. A função do Grupo é ajudar os participantes no acesso aos meios legais, dentro do regulamento. Quem desejar participar deve entrar em contato pelo número +55 21 97500-3195, SO Mesquita. \n\nAs seguintes regras devem ser seguidas para o bom funcionamento do grupo:\n\nPostagens proibidas:\n. Mensagens sem conteúdo útil, como \"bom dia\", \"boa semana\", \"sextou\", emojis etc. \n\n. Mensagens sobre esportes, principalmente futebol, só ocupam espaço e não agregam. \n\n. Mensagens que divulgam modos de *chutar* ou lesar o Sistema Naval. \n\n. Mensagens que *malhem* a Marinha. \n\n. Mensagens de conteúdo político e/ou pornô - o autor será expulso imediatamente do grupo. \n\n. Mensagens com propaganda de qualquer tipo. \n\nPostagens permitidas:\n. Notas de falecimento - apesar de desagradáveis, podem é devem ser postadas no Grupo, desde que tragam todas as informações, como nome do falecido local e hora de velório e sepultamento, telefones de familiares. No entanto não é permitido o envio de condolências ou orações. As mesmas devem ser enviadas aos contatos de familiares e amigos. \n\n. O grupo também adotará a Lei do Silêncio: entre as 22:00 e as 6:00 somente postagens de *emergência*. \n\nÉ importante salientar que já tivemos informes de militares da Inteligência, que se infiltraram nos grupos só para ficar de olho nas postagens. Nós sabemos que a MB tem suas dificuldades, principalmente na área da saúde. Mas o objetivo deste grupo é apontar caminhos lícitos em busca de soluções. Opiniões pessoais não serão toleradas nas postagens. Vamos manter o bom convívio e evitar o constrangimento de ter mensagens apagadas ou ser excluído do grupo.",
    "urls": [],
-   "category": "falecimento",
+   "category": "avisos_grupo",
    "title": "REGRAS DO GRUPO",
    "icon": "",
    "replyTo": null
@@ -11190,17 +11068,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Isto dá menos de 5.000 R$ por mês, é isto mesmo?",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1017,
-   "date": "24/10/25",
-   "sender": "Veterano #152",
-   "text": "Me chama no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no privado",
    "icon": "",
    "replyTo": null
   },
@@ -12078,17 +11945,6 @@
    "replyTo": null
   },
   {
-   "id": 1097,
-   "date": "28/10/25",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Vou te passar detalhes no pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Vou te passar detalhes no pv",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1098,
    "date": "28/10/25",
    "sender": "Veterano #160",
@@ -12188,17 +12044,6 @@
    "replyTo": null
   },
   {
-   "id": 1107,
-   "date": "28/10/25",
-   "sender": "Veterano #73",
-   "text": "Caso tenha pode entrar em contato no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Caso tenha pode entrar em contato no PV",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1108,
    "date": "28/10/25",
    "sender": "Veterano #73",
@@ -12228,17 +12073,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa tarde",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1111,
-   "date": "28/10/25",
-   "sender": "TTC+Antônio Miranda",
-   "text": "Cara de golpe. kkk",
-   "urls": [],
-   "category": "seguranca_golpes",
-   "title": "Cara de golpe. kkk",
    "icon": "",
    "replyTo": null
   },
@@ -12859,7 +12693,7 @@
    "sender": "Veterano #108",
    "text": "Bom dia, pessoal. Sou divorciado  e pago  pensão para a ex. Estou em outro casamento.  Em caso de falecimento  a pensão será dividida 50 por cento para cada. Ou a ex fica apenas com o valor que já é descontado para ela?  Agradeço por uma resposta.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Bom dia, pessoal. Sou divorciado  e pago  pensão para a ex. Estou em outro casamento.  Em caso de falecimento  a pensão será dividida 50 por cento par…",
    "icon": "",
    "replyTo": null
@@ -12870,7 +12704,7 @@
    "sender": "Veterano #151",
    "text": "Ótimo dia a todas e todos. Acredito que você precisa constituir um advogado r s pensão é restituída no seu contracheque. Neste caso de falecimento, comunicar , URGENTE a PAPEM, para que haja suspensão da pensão.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Ótimo dia a todas e todos. Acredito que você precisa constituir um advogado r s pensão é restituída no seu contracheque. Neste caso de falecimento, co…",
    "icon": "",
    "replyTo": null
@@ -12903,7 +12737,7 @@
    "sender": "Veterano #108",
    "text": "Na verdade,  eu só  queria saber se em caso do \"meu\" falecimento, a ex ganharia 50% do meu pagamento a título de pensão, dividindo com a atual.  Ou só  ficaria com o que já desconta atualmente.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Na verdade,  eu só  queria saber se em caso do \"meu\" falecimento, a ex ganharia 50% do meu pagamento a título de pensão, dividindo com a atual.  Ou só…",
    "icon": "",
    "replyTo": null
@@ -13210,17 +13044,6 @@
    "replyTo": null
   },
   {
-   "id": 1199,
-   "date": "02/11/25",
-   "sender": "Veterano #3",
-   "text": "Vou te chamar no pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Vou te chamar no pv",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1200,
    "date": "02/11/25",
    "sender": "Veterano #73",
@@ -13349,17 +13172,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Sim, foi acordado lá",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1212,
-   "date": "03/11/25",
-   "sender": "Veterano #3",
-   "text": "Me chama no pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no pv",
    "icon": "",
    "replyTo": null
   },
@@ -14576,17 +14388,6 @@
    "replyTo": null
   },
   {
-   "id": 1322,
-   "date": "05/11/25",
-   "sender": "Veterano #93",
-   "text": "Falei no privado.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Falei no privado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1323,
    "date": "05/11/25",
    "sender": "Veterano #8",
@@ -14671,17 +14472,6 @@
    "urls": [],
    "category": "documentos_dependencia",
    "title": "Realmente, dei entrada no SVPM do Marcílio Dias mesmo, pois, fui buscar o laudo e fiz lá mesmo",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1331,
-   "date": "05/11/25",
-   "sender": "Veterano #31",
-   "text": "Caso persista suas dúvidas, me chame no privado.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Caso persista suas dúvidas, me chame no privado.",
    "icon": "",
    "replyTo": null
   },
@@ -15368,7 +15158,7 @@
    "sender": "Veterano #136",
    "text": "Tem direito a receber sim, se já era dependente na época do falecimento e se o titular hoje não ultrapassou 5 anos na reserva.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Tem direito a receber sim, se já era dependente na época do falecimento e se o titular hoje não ultrapassou 5 anos na reserva.",
    "icon": "",
    "replyTo": null
@@ -15379,7 +15169,7 @@
    "sender": "Veterano #186",
    "text": "Mas vou clarear a pergunta. Estando na reserva e o dependente faleceu. Tem direito ?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Mas vou clarear a pergunta. Estando na reserva e o dependente faleceu. Tem direito ?",
    "icon": "",
    "replyTo": null
@@ -15423,7 +15213,7 @@
    "sender": "Veterano #22",
    "text": "Desde que não tenha passado de 5 anos do falecimento e não de reserva.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Desde que não tenha passado de 5 anos do falecimento e não de reserva.",
    "icon": "",
    "replyTo": null
@@ -15667,7 +15457,7 @@
    "sender": "Veterano #73",
    "text": "Pessoas que tiveram câncer têm direito a isenção de Imposto de Renda sobre proventos de aposentadoria, pensão e reforma. Outros direitos incluem o saque do FGTS e PIS/PASEP, além de benefícios previdenciários como auxílio-doença ou aposentadoria por incapacidade permanente. Também podem ter direito a isenções em impostos como IPVA e IPI (para veículos adaptados), e facilidades como passe livre em transporte interestadual. Direitos previdenciários e trabalhistas Isenção de carência: Não é preciso ter carência mínima para ter direito ao auxílio-doença ou aposentadoria por incapacidade permanente, bastando ser segurado da Previdência Social.Auxílio-doença: Concedido em caso de incapacidade temporária de trabalho.Aposentadoria por incapacidade permanente: Caso a doença cause incapacidade total e permanente para o trabalho.Saque do FGTS e PIS/PASEP: É possível sacar esses fundos, assim como os dependentes. Direitos tributários Isenção de Imposto de Renda: Sobre aposentadoria, pensão e reforma.Isenção do IPVA: Para veículos, a isenção pode ser solicitada e, se os requisitos forem comprovados para os últimos cinco anos, é possível pedir a restituição dos valores pagos.Isenção de IPI e ICMS: Na compra de veículos adaptados, mediante laudo médico do DETRAN. Outros direitos Tarifa Social de água: Desconto de \\(50\\%\\) na conta de água e esgoto.Passe Livre Interestadual: Para transporte rodoviário em viagens entre estados.Acesso ao tratamento e exames: A lei garante que planos de saúde devem cobrir exames e tratamentos com prazos máximos definidos.Suporte psicológico: O tratamento humanizado e o suporte psicológico também são garantidos por lei.Saque do FGTS para dependentes: Em caso de falecimento do titular por câncer.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Pessoas que tiveram câncer têm direito a isenção de Imposto de Renda sobre proventos de aposentadoria, pensão e reforma. Outros direitos incluem o saq…",
    "icon": "",
    "replyTo": null
@@ -15702,17 +15492,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Meu amigo vá pessoalmente é melhor",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 1424,
-   "date": "07/11/25",
-   "sender": "Veterano #22",
-   "text": "Respondido no pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Respondido no pv",
    "icon": "",
    "replyTo": null
   },
@@ -15810,7 +15589,7 @@
    "sender": "Veterano #97",
    "text": "Bom dia alguém pode me informar o seguinte: a viúva pensionista faleceu e a mesma tem três filhas solteiras, essas filhas terão direito a pensão do pai?\n\nA falecida(mãe) não pagava o 1,5 por fazer parte do regime antigo de pensionista\n\nPai falecido em 1997",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Bom dia alguém pode me informar o seguinte: a viúva pensionista faleceu e a mesma tem três filhas solteiras, essas filhas terão direito a pensão do pa…",
    "icon": "",
    "replyTo": null
@@ -15865,7 +15644,7 @@
    "sender": "Veterano #73",
    "text": "Amigão as filhas já não recebiam? \nPq se as filhas não recebiam e o pai pagava os 1.5% tem alguma coisa errada! \nTem que ver direitinho, pois antes os 1.5% vinha descontado obrigatoriamente e apartir de 2001 quem estava e quiz sair pulou e quem deixou não pode mais tirar.\nSe o Pai faleceu em 1997 elas tem que ver sso direitinho. \nTem alguma coisa errada.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Amigão as filhas já não recebiam?",
    "icon": "",
    "replyTo": null
@@ -15953,7 +15732,7 @@
    "sender": "Veterano #22",
    "text": "So passa para as filhas depois do falecimento da mãe",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "So passa para as filhas depois do falecimento da mãe",
    "icon": "",
    "replyTo": null
@@ -15986,7 +15765,7 @@
    "sender": "Veterano #22",
    "text": "Não tem nada haver o que vc falou. So passa para as filhas depois do falecimento da mãe",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Não tem nada haver o que vc falou. So passa para as filhas depois do falecimento da mãe",
    "icon": "",
    "replyTo": null
@@ -16030,7 +15809,7 @@
    "sender": "Veterano #190",
    "text": "Conheço um caso de uma filha, que o Pai faleceu antes de 2000.\nA pensão passou para mãe, e só depois que a mãe faleceu a filha deu entrada e até hoje recebe a pensão. Mesmo sendo casada.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Conheço um caso de uma filha, que o Pai faleceu antes de 2000.",
    "icon": "",
    "replyTo": null
@@ -16052,7 +15831,7 @@
    "sender": "Veterano #73",
    "text": "Somente se não houver o desconto e as filhas ainda fazerem jus a pensão, mas se acaso for descontado os 1.5% as filhas fazem jus mesmo antes do falecimento da mãe",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Somente se não houver o desconto e as filhas ainda fazerem jus a pensão, mas se acaso for descontado os 1.5% as filhas fazem jus mesmo antes do faleci…",
    "icon": "",
    "replyTo": null
@@ -16085,7 +15864,7 @@
    "sender": "Veterano #4",
    "text": "Apois aqui no RJ a pensionista que o esposo faleceu em 1994. Só ela recebe e quando ela falecer é que passa pras filhas",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Apois aqui no RJ a pensionista que o esposo faleceu em 1994. Só ela recebe e quando ela falecer é que passa pras filhas",
    "icon": "",
    "replyTo": null
@@ -16129,7 +15908,7 @@
    "sender": "Veterano #73",
    "text": "Mas tira uma dúvida amigão com ela? Pergunta se ela tem filhas, se já são de maiores e se o esposo falecido descontava os 1.5%? \nSó por questão de curiosidade. 👍🏽 \nPor que vou até me informar sobre tudo, pois tornasse algo obscuro se o propósito será as filhas.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Mas tira uma dúvida amigão com ela? Pergunta se ela tem filhas, se já são de maiores e se o esposo falecido descontava os 1.5%?",
    "icon": "",
    "replyTo": null
@@ -19811,17 +19590,6 @@
    "replyTo": null
   },
   {
-   "id": 1796,
-   "date": "24/11/25",
-   "sender": "Gilsomar Nunes Lopes👮🏻♂️",
-   "text": "Falo no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Falo no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1797,
    "date": "24/11/25",
    "sender": "TTC+VALDEGIR SIQUEIRA",
@@ -20016,7 +19784,7 @@
    "sender": "Veterano #4",
    "text": "A minha vizinha que é pensionista, voltou a receber os proventos do esposo, quando o mesmo faleceu. Ele era 2°SG, foi reformado por doença, recebia como 2°Ten. Faleceu e agora ela voltou a receber os proventos de 2°SG",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "A minha vizinha que é pensionista, voltou a receber os proventos do esposo, quando o mesmo faleceu. Ele era 2°SG, foi reformado por doença, recebia co…",
    "icon": "",
    "replyTo": null
@@ -21555,17 +21323,6 @@
    "replyTo": null
   },
   {
-   "id": 1954,
-   "date": "02/12/25",
-   "sender": "Veterano #31",
-   "text": "Caso ainda reste alguma dúvida me chame no privado.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Caso ainda reste alguma dúvida me chame no privado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1955,
    "date": "02/12/25",
    "sender": "Veterano #52",
@@ -22750,17 +22507,6 @@
    "replyTo": null
   },
   {
-   "id": 2064,
-   "date": "09/12/25",
-   "sender": "Veterano #94",
-   "text": "Falei com vc no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Falei com vc no PV",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 2065,
    "date": "09/12/25",
    "sender": "TTC+André Gurgel",
@@ -23669,17 +23415,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Ok, 🤝🇧🇷",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2148,
-   "date": "15/12/25",
-   "sender": "Veterano #157",
-   "text": "Golpe",
-   "urls": [],
-   "category": "seguranca_golpes",
-   "title": "Golpe",
    "icon": "",
    "replyTo": null
   },
@@ -24611,17 +24346,6 @@
    "replyTo": null
   },
   {
-   "id": 2233,
-   "date": "19/12/25",
-   "sender": "Veterano #120",
-   "text": "Poderia falar comigo no privado?",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Poderia falar comigo no privado?",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 2234,
    "date": "19/12/25",
    "sender": "Veterano #85",
@@ -24990,7 +24714,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Ao postar uma nota fúnebre. Favor trazer maiores informações como: local do velório e sepultamento e sempre que possível um telefone de contato de familiares para se enviar notas de pêsames.\nPostar por postar sem informações deixa as coisas confusas. \nADMIN",
    "urls": [],
-   "category": "falecimento",
+   "category": "avisos_grupo",
    "title": "Ao postar uma nota fúnebre. Favor trazer maiores informações como: local do velório e sepultamento e sempre que possível um telefone de contato de fam…",
    "icon": "",
    "replyTo": null
@@ -25155,7 +24879,7 @@
    "sender": "Veterano #186",
    "text": "Isso depende da idade dos dependentes, eu  pago  27 reais. Eu esposa  e filha . Mas minha filha  entra  como individual . Mas só lá mesmo o passar o valor certo o vc. Mas já te falo q vale apena s não tem .faça logo. Eu pagava p minha mãe sogra. E o serviço e  de 1 mão . sabemos q não gostaria de precisar né. Mas na vida só tem uma certeza a morte . eles pagam tudo e vc não s preocupa com nada em qualquer lugar do Brasil . Minha mãe faleceu no sul da Bahia eu  estava aq.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Isso depende da idade dos dependentes, eu  pago  27 reais. Eu esposa  e filha . Mas minha filha  entra  como individual . Mas só lá mesmo o passar o v…",
    "icon": "",
    "replyTo": null
@@ -25166,7 +24890,7 @@
    "sender": "Veterano #186",
    "text": "Ligue p eles informando  o falecimento  passei o contato da minha irmã na Bahia.  E eles resolvem tudo com a funerária local",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Ligue p eles informando  o falecimento  passei o contato da minha irmã na Bahia.  E eles resolvem tudo com a funerária local",
    "icon": "",
    "replyTo": null
@@ -25267,17 +24991,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "show",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2293,
-   "date": "28/12/25",
-   "sender": "Veterano #127",
-   "text": "Sugiro vrf, com certeza é golpe.",
-   "urls": [],
-   "category": "seguranca_golpes",
-   "title": "Sugiro vrf, com certeza é golpe.",
    "icon": "",
    "replyTo": null
   },
@@ -26066,7 +25779,7 @@
     "https://docs.google.com/forms/d/e/1FAIpQLScOJaNH9b18qer6Go_ua-aZdKgP3ZQXgLuERRHXjWedRiPrrg/viewform",
     "https://etam.mb/sites/default/files/bono16-12.pdf"
    ],
-   "category": "links_uteis",
+   "category": "vagas_ttc",
    "title": "\"ESCOLA TÉCNICA DO ARSENAL DE MARINHA",
    "icon": "",
    "replyTo": null
@@ -26294,17 +26007,6 @@
    "urls": [],
    "category": "juridico",
    "title": "Os advogados do Grupo estão no BALCÃO DE NEGÓCIOS.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2385,
-   "date": "12/01/26",
-   "sender": "TTC+submirandamr2704",
-   "text": "Como faco pra fala? No privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Como faco pra fala? No privado",
    "icon": "",
    "replyTo": null
   },
@@ -30535,17 +30237,6 @@
    "replyTo": null
   },
   {
-   "id": 2767,
-   "date": "05/02/26",
-   "sender": "Veterano #31",
-   "text": "Se ainda tiver dúvida pode me chamar no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Se ainda tiver dúvida pode me chamar no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 2768,
    "date": "05/02/26",
    "sender": "TTC+PLF Jaime",
@@ -30566,17 +30257,6 @@
    ],
    "category": "contatos_uteis",
    "title": "",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2770,
-   "date": "05/02/26",
-   "sender": null,
-   "text": "+55 53 8115-9304 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "+55 53 8115-9304 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
    "icon": "",
    "replyTo": null
   },
@@ -30843,7 +30523,7 @@
    "sender": "Veterano #160",
    "text": "Bom Dia, minha esposa faleceu ontem, qual procedimento que tenho que seguir, quem pode me ajudar?",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Bom Dia, minha esposa faleceu ontem, qual procedimento que tenho que seguir, quem pode me ajudar?",
    "icon": "",
    "replyTo": null
@@ -30876,7 +30556,7 @@
    "sender": "Veterano #144",
    "text": "Bom dia!\nSou o SO Figueirôa.\nPrimeiramente meus sentimentos.\nSobre a sua mensagem, o que vc está precisando?\n1 - sepultamento?\n2 - vc paga o auxílio pós morte?\n3 - paga SINAF (por exemplo)\n4 - vc mora no RJ?\n5 - se vc não paga nenhum plano funeral, ainda pode contar com o SAF nos DN.\nOBS: Primeiro vc cuida do sepultamento, depois vc vê as suas obrigações e direitos. \nTe mandei mensagem no privado.",
    "urls": [],
-   "category": "falecimento",
+   "category": "familia_naval",
    "title": "Bom dia!",
    "icon": "",
    "replyTo": null
@@ -32472,17 +32152,6 @@
    "replyTo": null
   },
   {
-   "id": 2942,
-   "date": "26/02/26",
-   "sender": "TTC+Silvio",
-   "text": "me chama no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "me chama no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 2943,
    "date": "26/02/26",
    "sender": "TTC+CARDOSO",
@@ -32956,7 +32625,7 @@
    "urls": [
     "https://seletivo.seplag.mt.gov.br/detalhes/45"
    ],
-   "category": "links_uteis",
+   "category": "vagas_ttc",
    "title": "🚨💰 ATENÇÃO, EX-MILITAR! OPORTUNIDADE IMPERDÍVEL NA SEDUC-MT! 💰🚨",
    "icon": "",
    "replyTo": null
@@ -32969,17 +32638,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa tarde.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2987,
-   "date": "02/03/26",
-   "sender": "Veterano #62",
-   "text": "Resposta no pv. 👍🏻",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Resposta no pv. 👍🏻",
    "icon": "",
    "replyTo": null
   },
@@ -33011,7 +32669,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "É EXPRESSAMENTE PROIBIDO POSTAR CARTÃO DE VISITA AQUI NO GRUPO. ALGUÉM PEDIU A INDICAÇÃO DE UM PROFISSIONAL. PASSE NO PV\nADMIN.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "É EXPRESSAMENTE PROIBIDO POSTAR CARTÃO DE VISITA AQUI NO GRUPO. ALGUÉM PEDIU A INDICAÇÃO DE UM PROFISSIONAL. PASSE NO PV",
    "icon": "",
    "replyTo": null
@@ -33160,17 +32818,6 @@
    "replyTo": null
   },
   {
-   "id": 3004,
-   "date": "03/03/26",
-   "sender": "Veterano #72",
-   "text": "Bom dia!!\n\nRespondido no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom dia!!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3005,
    "date": "03/03/26",
    "sender": "Veterano #29",
@@ -33178,17 +32825,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa noite. Gostaria de informações a respeito de agendamento de ultrassonografia,  pois o site Senpe.dsm.mar.mil.br não consigo acessar?",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3006,
-   "date": "03/03/26",
-   "sender": "Veterano #72",
-   "text": "Bom dia!!\nRespondido no PV.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom dia!!",
    "icon": "",
    "replyTo": null
   },
@@ -35188,50 +34824,6 @@
    "replyTo": null
   },
   {
-   "id": 3189,
-   "date": "13/03/26",
-   "sender": null,
-   "text": "TTC+ mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "TTC+ mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3190,
-   "date": "14/03/26",
-   "sender": null,
-   "text": "+55 61 8164-8870 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "+55 61 8164-8870 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3191,
-   "date": "14/03/26",
-   "sender": null,
-   "text": "TTC+ mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "TTC+ mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3192,
-   "date": "14/03/26",
-   "sender": null,
-   "text": "+55 61 8164-8870 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "+55 61 8164-8870 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3193,
    "date": "15/03/26",
    "sender": "TTC+PLF Jaime",
@@ -35362,17 +34954,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Entra no site e verifica os dados que precisa",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3205,
-   "date": "16/03/26",
-   "sender": "Veterano #165",
-   "text": "Eu tenho, vou te mandar no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eu tenho, vou te mandar no privado",
    "icon": "",
    "replyTo": null
   },
@@ -35740,17 +35321,6 @@
    "replyTo": null
   },
   {
-   "id": 3239,
-   "date": "18/03/26",
-   "sender": "Gilsomar Nunes Lopes👮🏻♂️",
-   "text": "Interessados me chamem no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Interessados me chamem no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3240,
    "date": "19/03/26",
    "sender": "Gilsomar Nunes Lopes👮🏻♂️",
@@ -35991,17 +35561,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "Bom dia. Alguém consegue me orientar? Necessito de um atendimento de dermatologista, porém  emergência. Sei que se for na PNNSG, terei que marcar cons…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3262,
-   "date": "23/03/26",
-   "sender": "Veterano #31",
-   "text": "Me chama no Pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no Pv",
    "icon": "",
    "replyTo": null
   },
@@ -38217,17 +37776,6 @@
    "replyTo": null
   },
   {
-   "id": 3463,
-   "date": "31/03/26",
-   "sender": "Veterano #72",
-   "text": "Bom dia!\nRespondi no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom dia!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3464,
    "date": "31/03/26",
    "sender": "Veterano #26",
@@ -38939,17 +38487,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "muito embora tenha muitas dificuldades no dia a dia como depressão e dificuldade em diversas áreas",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3529,
-   "date": "04/04/26",
-   "sender": "Veterano #31",
-   "text": "Caso queira um melhor esclarecimento me chame no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Caso queira um melhor esclarecimento me chame no privado",
    "icon": "",
    "replyTo": null
   },
@@ -41004,17 +40541,6 @@
    "replyTo": null
   },
   {
-   "id": 3716,
-   "date": "27/04/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Te enviei no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Te enviei no PV",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3717,
    "date": "27/04/26",
    "sender": "Veterano #204",
@@ -41442,17 +40968,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Bom dia",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 3756,
-   "date": "30/04/26",
-   "sender": "TTC+Tony (Jorge)",
-   "text": "O próprio,  envie mensagem ao Admin,  no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "O próprio,  envie mensagem ao Admin,  no privado",
    "icon": "",
    "replyTo": null
   },
@@ -43266,17 +42781,6 @@
    "replyTo": null
   },
   {
-   "id": 3923,
-   "date": "14/05/26",
-   "sender": "Veterano #222",
-   "text": "Me chama no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3924,
    "date": "15/05/26",
    "sender": "Veterano #229",
@@ -43924,17 +43428,6 @@
    "replyTo": null
   },
   {
-   "id": 3983,
-   "date": "20/05/26",
-   "sender": "Veterano #58",
-   "text": "Bom dia , me chama no privado .",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom dia , me chama no privado .",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 3984,
    "date": "20/05/26",
    "sender": "Veterano #106",
@@ -44256,17 +43749,6 @@
    "replyTo": null
   },
   {
-   "id": 4013,
-   "date": "22/05/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Quem tiver interesse me em reservar me chama no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Quem tiver interesse me em reservar me chama no PV",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4014,
    "date": "22/05/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -44397,17 +43879,6 @@
    "urls": [],
    "category": "documentos_dependencia",
    "title": "Boa Noite Veteranos",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4026,
-   "date": "25/05/26",
-   "sender": "TTC-🍺Flavio Lima 🎣",
-   "text": "Pode chamar no PV",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Pode chamar no PV",
    "icon": "",
    "replyTo": null
   },
@@ -45012,17 +44483,6 @@
    "replyTo": null
   },
   {
-   "id": 4085,
-   "date": "29/05/26",
-   "sender": "Veterano #31",
-   "text": "Me chama no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Me chama no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4086,
    "date": "29/05/26",
    "sender": "Veterano #26",
@@ -45294,17 +44754,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa noite srs. Alguém pode tirar uma dúvida, referente IR. Verifique na minha declaração que a receita não aceitou peli comprovante de despesas de saú…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4112,
-   "date": "01/06/26",
-   "sender": "Veterano #35",
-   "text": "Alguém pode me responder no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Alguém pode me responder no privado",
    "icon": "",
    "replyTo": null
   },
@@ -47112,17 +46561,6 @@
    "replyTo": null
   },
   {
-   "id": 4279,
-   "date": "24/06/26",
-   "sender": null,
-   "text": "TTC-🇧🇷 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "TTC-🇧🇷 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4280,
    "date": "25/06/26",
    "sender": "Veterano #20",
@@ -47132,17 +46570,6 @@
    ],
    "category": "avisos_grupo",
    "title": "Ideias de cidadãos propostas no portal e-Cidadania podem virar projetos de lei e ser analisadas pelos Senadores. Conheça a ideia *Valorização do Soldo…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4281,
-   "date": "25/06/26",
-   "sender": null,
-   "text": "+55 21 99814-3104 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "+55 21 99814-3104 mudou de número de telemóvel. Enviar mensagem ou adicionar o novo número",
    "icon": "",
    "replyTo": null
   },
@@ -47250,39 +46677,6 @@
    "replyTo": null
   },
   {
-   "id": 4291,
-   "date": "29/06/26",
-   "sender": "Veterano #26",
-   "text": "Gostaria me chamar pv",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Gostaria me chamar pv",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4292,
-   "date": "29/06/26",
-   "sender": "Veterano #110",
-   "text": "Obrigado Mano!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado Mano!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4293,
-   "date": "29/06/26",
-   "sender": "Veterano #31",
-   "text": "Caso ainda tenha dúvidas me chame no privado.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Caso ainda tenha dúvidas me chame no privado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4294,
    "date": "30/06/26",
    "sender": "Veterano #110",
@@ -47345,17 +46739,6 @@
    "urls": [],
    "category": "juridico",
    "title": "Sugiro vc procurar um auxílio jurídico URGENTE. Procure contato de advogados no BALCÃO DE NEGÓCIOS.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4300,
-   "date": "01/07/26",
-   "sender": "Veterano #26",
-   "text": "Blz",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Blz",
    "icon": "",
    "replyTo": null
   },
@@ -47448,17 +46831,6 @@
    "replyTo": null
   },
   {
-   "id": 4309,
-   "date": "01/07/26",
-   "sender": "Veterano #155",
-   "text": "Obrigado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4310,
    "date": "01/07/26",
    "sender": "TTC+Antonio Alves",
@@ -47466,28 +46838,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Acho que no restaurante pode  mas é bom confirmar",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4311,
-   "date": "01/07/26",
-   "sender": "Veterano #155",
-   "text": "Obrigado veterano",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado veterano",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4312,
-   "date": "01/07/26",
-   "sender": "Veterano #155",
-   "text": "Obrigado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado",
    "icon": "",
    "replyTo": null
   },
@@ -47514,17 +46864,6 @@
    "replyTo": null
   },
   {
-   "id": 4315,
-   "date": "02/07/26",
-   "sender": "Veterano #31",
-   "text": "Atenção as postagens recorrentes!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Atenção as postagens recorrentes!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4316,
    "date": "02/07/26",
    "sender": "Veterano #144",
@@ -47532,17 +46871,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "Boa tarde!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4317,
-   "date": "02/07/26",
-   "sender": "5521-TTC-Paulo Henrique",
-   "text": "Ok! Obrigado!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Ok! Obrigado!",
    "icon": "",
    "replyTo": null
   },
@@ -47565,17 +46893,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "alguém tem a resposta.da.minha pergunta por favor",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4320,
-   "date": "02/07/26",
-   "sender": "TTC+Silvio",
-   "text": "???",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "???",
    "icon": "",
    "replyTo": null
   },
@@ -47683,17 +47000,6 @@
    "replyTo": null
   },
   {
-   "id": 4330,
-   "date": "05/07/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Sugiro vc reler nossas regras na descrição do Grupo.\nADMIN",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Sugiro vc reler nossas regras na descrição do Grupo.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4331,
    "date": "07/07/26",
    "sender": "Veterano #155",
@@ -47793,39 +47099,6 @@
    "replyTo": null
   },
   {
-   "id": 4340,
-   "date": "07/07/26",
-   "sender": "Veterano #194",
-   "text": "Obrigado 🤝",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Obrigado 🤝",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4341,
-   "date": "09/07/26",
-   "sender": "5586-TTC-Luiz Carlos EL Balcão De Negócios",
-   "text": "Bom dia com Deus e alegria 🙏😂!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom dia com Deus e alegria 🙏😂!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4342,
-   "date": "09/07/26",
-   "sender": "Veterano #227",
-   "text": "Excelente INFORMAÇÃO. OBRIGADO",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Excelente INFORMAÇÃO. OBRIGADO",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4343,
    "date": "09/07/26",
    "sender": "Veterano #165",
@@ -47846,28 +47119,6 @@
    ],
    "category": "contatos_uteis",
    "title": "Balcão de Negócios online atualizado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4347,
-   "date": "10/07/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Informações úteis:",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Informações úteis:",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4348,
-   "date": "10/07/26",
-   "sender": null,
-   "text": "Afixou uma mensagem",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Afixou uma mensagem",
    "icon": "",
    "replyTo": null
   },
@@ -48055,17 +47306,6 @@
    "urls": [],
    "category": "financas_beneficios",
    "title": "Eu levei o Ofício com o despacho pessoalmente em 2022, junto a SECOM da PAPEM. O envio do cartório, não  é  tão  rápido",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4368,
-   "date": "14/07/26",
-   "sender": "Veterano #250",
-   "text": "Blz obg a todos que responderam juntos somos más forte",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Blz obg a todos que responderam juntos somos más forte",
    "icon": "",
    "replyTo": null
   },
@@ -48293,21 +47533,10 @@
    "id": 4390,
    "date": "16/07/26",
    "sender": "Veterano #22",
-   "text": "Bom dia. Ela é sua dependente na condição de ? Mãe viúva,  separada ou solteira?",
+   "text": "Bom dia. Ela é sua dependente na condição de ? Mãe viúva,  separada ou solteira? Ou casada?",
    "urls": [],
    "category": "diversos_texto",
    "title": "Bom dia. Ela é sua dependente na condição de ? Mãe viúva,  separada ou solteira?",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4391,
-   "date": "16/07/26",
-   "sender": "Veterano #22",
-   "text": "Ou casada?",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Ou casada?",
    "icon": "",
    "replyTo": null
   },
@@ -48330,17 +47559,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Se ele quer entrar no Grupo. Pede pra ele me enviar um ZAP.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4395,
-   "date": "16/07/26",
-   "sender": "TTC+BEZERRA",
-   "text": "A publicação acima teve a anuência do ADMIN.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "A publicação acima teve a anuência do ADMIN.",
    "icon": "",
    "replyTo": null
   },
@@ -48374,7 +47592,7 @@
    "sender": "5521-X-Jorge de Mesquita Barros",
    "text": "Os objetivos do Grupo são bem claros: pedir ajuda e prestar ajuda.\nOpinião vamos guardar pra gente.\nADMIN",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "avisos_grupo",
    "title": "Os objetivos do Grupo são bem claros: pedir ajuda e prestar ajuda.",
    "icon": "",
    "replyTo": null
@@ -48431,17 +47649,6 @@
    "urls": [],
    "category": "financas_beneficios",
    "title": "Boa dia, por gentileza. Alguém pode Me enviar o link para cadastrar o dependente no site da papem, conforme nota bono da papem.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4406,
-   "date": "17/07/26",
-   "sender": "Veterano #26",
-   "text": "Poderia me informar também,  grato",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Poderia me informar também,  grato",
    "icon": "",
    "replyTo": null
   },
@@ -48523,17 +47730,6 @@
    "replyTo": null
   },
   {
-   "id": 4420,
-   "date": "18/07/26",
-   "sender": "TTC+Carlos ☕☕☕☕😃😃😃😃",
-   "text": "Melhoras",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Melhoras",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4421,
    "date": "18/07/26",
    "sender": "TTC-Alexandre",
@@ -48556,17 +47752,6 @@
    "replyTo": null
   },
   {
-   "id": 4423,
-   "date": "20/07/26",
-   "sender": "Veterano #106",
-   "text": "Se puder me chame no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Se puder me chame no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4424,
    "date": "20/07/26",
    "sender": "Veterano #22",
@@ -48574,17 +47759,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Boa tarde. Era para ter pedido junto. Quem determina se tem direito ou não é a junta. De acordo com a sua necessidade física. Se precisa ou não de cui…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4425,
-   "date": "20/07/26",
-   "sender": "Veterano #106",
-   "text": "Entendi",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Entendi",
    "icon": "",
    "replyTo": null
   },
@@ -48629,17 +47803,6 @@
    "urls": [],
    "category": "saude_atendimento",
    "title": "Boa tarde! alguém pode enviar o número do Nosso senhora da Glória,marcar/desmarcar consultas!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4431,
-   "date": "21/07/26",
-   "sender": "Veterano #13",
-   "text": "Eu tbm gostaria muito de saber!!!",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Eu tbm gostaria muito de saber!!!",
    "icon": "",
    "replyTo": null
   },
@@ -48723,17 +47886,6 @@
    "replyTo": null
   },
   {
-   "id": 4439,
-   "date": "23/07/26",
-   "sender": "Veterano #31",
-   "text": "Caso ainda tenha dúvidas pode me chamar no privado",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Caso ainda tenha dúvidas pode me chamar no privado",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4441,
    "date": "25/07/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -48778,17 +47930,6 @@
    "replyTo": null
   },
   {
-   "id": 4445,
-   "date": "25/07/26",
-   "sender": "Veterano #181",
-   "text": "Poderia sair um bono com essa matéria",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Poderia sair um bono com essa matéria",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4446,
    "date": "25/07/26",
    "sender": "Veterano #239",
@@ -48796,17 +47937,6 @@
    "urls": [],
    "category": "contatos_uteis",
    "title": "Bom dia, Alguém pode me passar o contato da DSM, meu pai precisa fazer uma fístula para hemodiálise e faz mais de dois meses que está esperando autori…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4447,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "Boa tarde. Me permita...",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Boa tarde. Me permita...",
    "icon": "",
    "replyTo": null
   },
@@ -48822,46 +47952,15 @@
    "replyTo": null
   },
   {
-   "id": 4449,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "dsm.ouvidoria@marinha.mil.br",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "dsm.ouvidoria@marinha.mil.br",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4450,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "(21) 2104-5621",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "(21) 2104-5621",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4451,
    "date": "25/07/26",
    "sender": "Veterano #43",
-   "text": "Telefone da DSM. solicitar transferência para o Setor de AUT. De preferência ter conhecimento do número do processo que solicitou a autorização (Número da GAU, ou data/hora da MSG), conforme o caso.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Telefone da DSM. solicitar transferência para o Setor de AUT. De preferência ter conhecimento do número do processo que solicitou a autorização (Númer…",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4452,
-   "date": "25/07/26",
-   "sender": "Veterano #43",
-   "text": "Espero ter ajudado na elucidação da demanda. Forte abraço e melhoras para o seu pai.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Espero ter ajudado na elucidação da demanda. Forte abraço e melhoras para o seu pai.",
+   "text": "Telefone da DSM - (21) 2104-5621. \nSolicitar transferência para o Setor de AUT. De preferência ter conhecimento do número do processo que solicitou a autorização (Número da GAU, ou data/hora da MSG), conforme o caso.",
+   "urls": [
+    "dsm.ouvidoria@marinha.mil.br"
+   ],
+   "category": "contatos_uteis",
+   "title": "Telefone da DSM.",
    "icon": "",
    "replyTo": null
   },
@@ -48869,10 +47968,10 @@
    "id": 4453,
    "date": "25/07/26",
    "sender": "TTC+",
-   "text": "Boa tarde Sres!!!\nAlguém consegue o número do SASM do Rio?\nÉ urgente.",
+   "text": "Alguém consegue o número do SASM do Rio?\nÉ urgente.",
    "urls": [],
    "category": "diversos_texto",
-   "title": "Boa tarde Sres!!!",
+   "title": "Boa tarde Srs!",
    "icon": "",
    "replyTo": null
   },
@@ -48976,17 +48075,6 @@
    "replyTo": null
   },
   {
-   "id": 4467,
-   "date": "27/07/26",
-   "sender": "TTC-Alex Oliveira",
-   "text": "👆 CONVENIADOS",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "👆 CONVENIADOS",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4468,
    "date": "27/07/26",
    "sender": "TTC-Alex Oliveira",
@@ -49086,17 +48174,6 @@
    "replyTo": null
   },
   {
-   "id": 4479,
-   "date": "30/07/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Sugiro fazer contato para tirar todas as dúvidas e saber dados atualizados.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Sugiro fazer contato para tirar todas as dúvidas e saber dados atualizados.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 4481,
    "date": "30/07/26",
    "sender": "5521-X-Jorge de Mesquita Barros",
@@ -49126,28 +48203,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Prova de vida",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4484,
-   "date": "30/07/26",
-   "sender": "Veterano #102",
-   "text": "Segue aí",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Segue aí",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 4485,
-   "date": "30/07/26",
-   "sender": "Veterano #141",
-   "text": "Conversas anteriores eu apaguei, poderia enviar de novo por favor?",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Conversas anteriores eu apaguei, poderia enviar de novo por favor?",
    "icon": "",
    "replyTo": null
   },
