@@ -260,6 +260,11 @@
   }
   .card-title:active{color:var(--azul-700);}
   .card:active{border-color:var(--azul-600);}
+  /* Modo de edição — só visível depois do gesto de desbloqueio (5 toques no ícone da âncora) */
+  .admin-only{display:none;}
+  body.admin-mode .admin-only{display:flex !important;}
+  .brand-badge{transition:box-shadow .15s; cursor:pointer;}
+  body.admin-mode .brand-badge{box-shadow:0 0 0 3px var(--azul-100);}
 </style>
 </head>
 <body>
@@ -267,7 +272,7 @@
 <div class="topbar">
   <div class="topbar-row">
     <div class="brand">
-      <div class="brand-badge">
+      <div class="brand-badge" id="brandBadge" title="">
         <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2"/><path d="M12 7v13M5 12H2a10 10 0 0 0 20 0h-3M5 12a7 7 0 0 0 7 7M19 12a7 7 0 0 1-7 7"/></svg>
       </div>
       <div>
@@ -283,7 +288,7 @@
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
       <span class="lbl">JSON</span>
     </button>
-    <button class="btn-add" id="btnAdd" title="Adicionar postagem">
+    <button class="btn-add admin-only" id="btnAdd" title="Adicionar postagem">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
       <span class="lbl">Adicionar</span>
     </button>
@@ -292,7 +297,7 @@
 
 <div class="layout">
   <div>
-    <button class="cats-manage" id="btnManageCats">⚙ Gerenciar categorias</button>
+    <button class="cats-manage admin-only" id="btnManageCats">⚙ Gerenciar categorias</button>
     <div class="cats" id="catsList"></div>
   </div>
   <div>
@@ -379,7 +384,7 @@
   <div class="modal" id="threadModal">
     <h3>Pergunta e respostas vinculadas</h3>
     <div id="threadContent"></div>
-    <button class="btn-primary" id="btnAddAnswerThread" style="margin-top:6px; width:100%;">+ Adicionar resposta a esta pergunta</button>
+    <button class="btn-primary admin-only" id="btnAddAnswerThread" style="margin-top:6px; width:100%;">+ Adicionar resposta a esta pergunta</button>
     <div class="modal-actions">
       <button class="btn-secondary" id="btnCloseThread">Fechar</button>
     </div>
@@ -674,7 +679,7 @@ function cardHtml(it, cats){
     ${links ? `<div class="card-links">${links}</div>` : ''}
     <div class="card-foot">
       ${showSender ? `<span class="sender-tag">${escapeHtml(it.sender)}</span>` : ''}
-      <button class="icon-btn" data-edit="${it.id}" title="Editar">${ICON_EDIT}</button>
+      <button class="icon-btn admin-only" data-edit="${it.id}" title="Editar">${ICON_EDIT}</button>
     </div>
   </div>`;
 }
@@ -988,8 +993,32 @@ document.getElementById('btnDownload').addEventListener('click', () => {
   showToast('postagens.json baixado — substitua o arquivo no repositório do GitHub.');
 });
 
+// ---------- Modo de edição (desbloqueio por 5 toques no ícone da âncora) ----------
+const ADMIN_KEY = 'postagens:admin-unlocked';
+let tapCount = 0;
+let tapTimer = null;
+
+function setAdminMode(on){
+  document.body.classList.toggle('admin-mode', on);
+  try{ localStorage.setItem(ADMIN_KEY, on ? '1' : '0'); }catch(e){}
+}
+
+document.getElementById('brandBadge').addEventListener('click', () => {
+  tapCount++;
+  clearTimeout(tapTimer);
+  tapTimer = setTimeout(() => { tapCount = 0; }, 2500);
+  if(tapCount >= 5){
+    tapCount = 0;
+    clearTimeout(tapTimer);
+    const nowOn = !document.body.classList.contains('admin-mode');
+    setAdminMode(nowOn);
+    showToast(nowOn ? 'Modo de edição ativado' : 'Modo de edição desativado');
+  }
+});
+
 // ---------- Inicialização ----------
 (async function init(){
+  try{ setAdminMode(localStorage.getItem(ADMIN_KEY) === '1'); }catch(e){}
   const data = await loadBaseData();
   BASE_ITEMS = data.items || [];
   BASE_CATS = data.categories || {};
