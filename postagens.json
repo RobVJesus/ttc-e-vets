@@ -49341,6 +49341,39 @@
    "icon": "",
    "replyTo": 189,
    "title": "Porte de arma"
+  },
+  {
+   "id": "c1786997527080",
+   "date": "17/08/2026",
+   "sender": null,
+   "text": "",
+   "urls": [],
+   "category": "porte_de_armas",
+   "icon": "",
+   "replyTo": 189,
+   "title": "Porte de arma"
+  },
+  {
+   "id": "c1787002786965",
+   "date": "17/08/2026",
+   "sender": null,
+   "text": "Boa tarde, estando na reserva, fica mais fácil para obter o porte de arma?",
+   "urls": [],
+   "category": "porte_de_armas",
+   "icon": "",
+   "replyTo": null,
+   "title": "Porte de arma na reserva"
+  },
+  {
+   "id": "c1787002953177",
+   "date": "17/08/2026",
+   "sender": null,
+   "text": "Boa tarde. Quando na ativa, após as \"pesquisas\" da inteligência, a sua OM faz OS, emite ofício ao Lojista ou Fábrica, autorizando a aquisição da arma. Após a aquisição, você apresenta a Nota fiscal, junto da OM, para que seja enviado para a DSAM, para emissão do CRAF (Certificado de Registro de Arma de Fogo)/PAF (Porte de Arma de Fogo), conforme o caso. No caso de militares, quero crer que a faina seja a mesma, sendo que ao invés de se valer da sua OM (Diretor/Comandante), quem irá providenciar a faina será o SVPM, da sua área (a OS e ofício) serão assinados pelo ComDN, da área.",
+   "urls": [],
+   "category": "alojamento_hospedagem",
+   "icon": "",
+   "replyTo": "c1787002786965",
+   "title": "Porte de arma na reserva"
   }
  ]
 }
