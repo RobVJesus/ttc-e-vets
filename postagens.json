@@ -11,7 +11,8 @@
   "avisos_grupo": "Avisos do Grupo",
   "diversos_texto": "Perguntas & Respostas Diversas",
   "contatos_uteis": "Contatos & Sites Úteis",
-  "familia_naval": "Família Naval"
+  "familia_naval": "Família Naval",
+  "porte_de_armas": "Porte de armas"
  },
  "items": [
   {
@@ -1353,7 +1354,7 @@
    "sender": "TTC+Armando Alves",
    "text": "Bom dia,minha filha é deficiente auditiva vai fazer 30 anos eu desconto no meu BP 1,5% e de três em três anos tenho que fazer a DBI  Declaração de Beneficiário Inicial para ter acesso ao Sistema de Saúde da Marinha...",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "financas_beneficios",
    "title": "Bom dia,minha filha é deficiente auditiva vai fazer 30 anos eu desconto no meu BP 1,5% e de três em três anos tenho que fazer a DBI  Declaração de Ben…",
    "icon": "",
    "replyTo": null
@@ -2067,11 +2068,11 @@
   {
    "id": 189,
    "date": "28/08/25",
-   "sender": "Roberto Jesus",
-   "text": "Porte de arma...",
+   "sender": null,
+   "text": "Boa tarde!\nAlguém pode me informar sobre o porte de armas da ativa, serve para quem está na reserva,\nPor favor, se tiver alguém, me chama no privado!\nObrigado!",
    "urls": [],
-   "category": "diversos_texto",
-   "title": "Porte de arma...",
+   "category": "porte_de_armas",
+   "title": "Porte de arma",
    "icon": "",
    "replyTo": null
   },
@@ -5466,7 +5467,7 @@
    "sender": "TTC+André Mello",
    "text": "Agradeço Armando, mas esse arquivo eu tenho e está com muitos telefones desatualizados.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "contatos_uteis",
    "title": "Agradeço Armando, mas esse arquivo eu tenho e está com muitos telefones desatualizados.",
    "icon": "",
    "replyTo": null
@@ -8589,7 +8590,7 @@
    "sender": "Veterano #117",
    "text": "Bom dia a todos, \nEstou precisando de orientação,\nsobre como devo proceder/qual caminho, a seguir,\npara transferir (venda) de uma arma 9mm., para um amigo civil.\nGrato.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Bom dia a todos,",
    "icon": "",
    "replyTo": null
@@ -12284,7 +12285,7 @@
    "urls": [
     "https://www.gov.br/pf/pt-br/assuntos/armas/psicologos/psicologos-crediciados"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "NOVO REGRAMENTO para Porte de Arma de Fogo de militares veteranos.n",
    "icon": "",
    "replyTo": null
@@ -12345,7 +12346,7 @@
    "urls": [
     "https://www.gov.br/pf/pt-br/assuntos/armas/psicologos/psicologos-crediciados"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "NOVO REGRAMENTO para Porte de Arma de Fogo de militares veteranos.n",
    "icon": "",
    "replyTo": null
@@ -12356,7 +12357,7 @@
    "sender": "TTC+Vilson Mesquita",
    "text": "Qual é o procedimento para quem tem a arma, o registro mas não tem o porte.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Qual é o procedimento para quem tem a arma, o registro mas não tem o porte.",
    "icon": "",
    "replyTo": null
@@ -12369,7 +12370,7 @@
    "urls": [
     "https://www.gov.br/pf/pt-br/assuntos/armas/psicologos/psicologos-crediciados"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "NOVO REGRAMENTO para Porte de Arma de Fogo de militares veteranos.n",
    "icon": "",
    "replyTo": null
@@ -12860,7 +12861,7 @@
    "urls": [
     "https://www.gov.br/pf/pt-br/assuntos/armas/psicologos/psicologos-crediciados"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "NOVO REGRAMENTO para Porte de Arma de Fogo de militares veteranos.n",
    "icon": "",
    "replyTo": null
@@ -15996,7 +15997,7 @@
    "sender": "TTC+Bruno",
    "text": "Bom dia senhores!\nGostaria de saber se teria alguém da DSAM na área ou alguém que já tenha passado por alguma situação semelhante ou tenha conhecimento. Tem um amigo que serviu a Marinha por nove anos mais ou menos e pediu baixa como cabo, e nesse período ele adquiriu uma pistola 9mm G2C, ou seja de uso restrito que na época era permitido pela publicação, porém quando ele saiu de baixa ele ficou na onça para regularizar esse armamento, porque segundo ele atualmente a Polícia Federal não pode regularizar esse armamento por ser de uso restrito e atualmente as regras mudaram.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Bom dia senhores!",
    "icon": "",
    "replyTo": null
@@ -16205,7 +16206,7 @@
    "sender": "Veterano #151",
    "text": "Bom dia senhores!\nGostaria de saber se teria alguém da DSAM na área ou alguém que já tenha passado por alguma situação semelhante ou tenha conhecimento. Tem um amigo que serviu a Marinha por nove anos mais ou menos e pediu baixa como cabo, e nesse período ele adquiriu uma pistola 9mm G2C, ou seja de uso restrito que na época era permitido pela publicação, porém quando ele saiu de baixa ele ficou na onça para regularizar esse armamento, porque segundo ele atualmente a Polícia Federal não pode regularizar esse armamento por ser de uso restrito e atualmente as regras mudaram.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Bom dia senhores!",
    "icon": "",
    "replyTo": null
@@ -16216,7 +16217,7 @@
    "sender": "TTC+Roberto Souza",
    "text": "Perfeito: só uma observação:\nOs CACs podem adquirir arma de uso restrito.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Perfeito: só uma observação:",
    "icon": "",
    "replyTo": null
@@ -16238,7 +16239,7 @@
    "sender": "Veterano #72",
    "text": "Entretanto o DECRETO Nº 11.615, DE 21 DE JULHO DE 2023, permite a posse.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Entretanto o DECRETO Nº 11.615, DE 21 DE JULHO DE 2023, permite a posse.",
    "icon": "",
    "replyTo": null
@@ -16249,7 +16250,7 @@
    "sender": "Veterano #102",
    "text": "A OM não tem essa competência pra reter o porte do militar, a orientação que ele regularize junto a PF,  e não cabe no nada consta, com a nova lei a época de  Bolsonaro até SD podia comprar arma.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "A OM não tem essa competência pra reter o porte do militar, a orientação que ele regularize junto a PF,  e não cabe no nada consta, com a nova lei a é…",
    "icon": "",
    "replyTo": null
@@ -18417,22 +18418,31 @@
   {
    "id": 1690,
    "date": "18/11/25",
-   "sender": "Veterano #22",
-   "text": "Então não pode ser mais dependentes. Com valores acima do IR. Agora ter que ver  como vai ficar.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Então não pode ser mais dependentes. Com valores acima do IR. Agora ter que ver  como vai ficar.",
+   "sender": null,
+   "text": "Página de audiência de canais",
+   "urls": [
+    "https://grok.com/share/bGVnYWN5LWNvcHk_da90f431-cf47-4b07-b381-9cc46ca70f91"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Página de audiência de canais",
    "icon": "",
    "replyTo": null
   },
   {
    "id": 1691,
    "date": "18/11/25",
-   "sender": "Veterano #22",
-   "text": "Vai no svpm para saber.",
-   "urls": [],
-   "category": "documentos_dependencia",
-   "title": "Vai no svpm para saber.",
+   "sender": null,
+   "text": "Conversa Timeline \n\n\n \n\nCNN Brasil \n\n\n \n\nJovem Pan News\n\n\n <Esta mensagem foi editada>",
+   "urls": [
+    "https://livecounts.io/youtube-live-subscriber-counter/UCEihMpvv65etsGwJVVBCO2Q",
+    "https://socialblade.com/youtube/channel/UCEihMpvv65etsGwJVVBCO2Q",
+    "https://livecounts.io/youtube-live-subscriber-counter/UCvdwhh_fDyWccR42-rReZLw",
+    "https://socialblade.com/youtube/channel/UCvdwhh_fDyWccR42-rReZLw",
+    "https://livecounts.io/youtube-live-subscriber-counter/UCP391YRAjSOdM_bwievgaZA",
+    "https://socialblade.com/youtube/channel/UCP391YRAjSOdM_bwievgaZA"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Conversa Timeline",
    "icon": "",
    "replyTo": null
   },
@@ -18450,11 +18460,13 @@
   {
    "id": 1693,
    "date": "18/11/25",
-   "sender": "5521-TTC-SO Fernando Veteranos E TTC",
-   "text": "Não sei apartir de quando irá valer",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Não sei apartir de quando irá valer",
+   "sender": null,
+   "text": "Bom, veteranos. Criei este canal para colher e tornar disponíveis informações úteis aos veteranos da MB. Apenas o Administrador pode enviar mensagens. Sugestões de atualizações, enviar diretamente ao Admin.\nObrigado.\n\nLink de convite:\nhttps://chat.whatsapp.com/BjhcVi756FBJbRLWzQH59G?mode=hqrt2",
+   "urls": [
+    "https://whatsapp.com/channel/0029VbBVcR8ISTkThb4qFh2Q"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Informações Para Veteranos no WhatsApp.",
    "icon": "",
    "replyTo": null
   },
@@ -18653,7 +18665,7 @@
    "urls": [
     "https://www.gov.br/pf/pt-br/assuntos/armas/psicologos/psicologos-crediciados"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "NOVO REGRAMENTO para Porte de Arma de Fogo de militares veteranos.n",
    "icon": "",
    "replyTo": null
@@ -18762,11 +18774,13 @@
   {
    "id": 1721,
    "date": "18/11/25",
-   "sender": "Veterano #22",
-   "text": "Do svpm?",
-   "urls": [],
-   "category": "documentos_dependencia",
-   "title": "Do svpm?",
+   "sender": null,
+   "text": "Site do Allan",
+   "urls": [
+    "https://allandossantos.net/"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Site do Allan",
    "icon": "",
    "replyTo": null
   },
@@ -18828,11 +18842,13 @@
   {
    "id": 1727,
    "date": "19/11/25",
-   "sender": "Veterano #22",
-   "text": "Só a título de informação,  vcs que tem filhos nessas condições, sabem que podem comprar carro com isenção de impostos e não pagar o IPVA? E aconselho tbm fazer um pedido para inspeção de saúde de dependente para comprovação de invalidez para que não precisar ficar renovando na época.  E principalmente se vc falecer eles já ficam comprovado a invalidez antes do falecimento do pai e quando forem entrar na pensão não perderem a AMH, não pagarem o IR e o desconto da contribuição MNTLP invés de ser 3% será de 1,5%",
-   "urls": [],
-   "category": "familia_naval",
-   "title": "Só a título de informação,  vcs que tem filhos nessas condições, sabem que podem comprar carro com isenção de impostos e não pagar o IPVA? E aconselho…",
+   "sender": null,
+   "text": "",
+   "urls": [
+    "https://guest.hotelgest.com/?t=pX-kpOHol5WjpHifpJWcl5WjpHifpJWcl5WjpHmkpp2lm52spX-lqpylnpunrQ=="
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Hotel São Lázaro",
    "icon": "",
    "replyTo": null
   },
@@ -20870,11 +20886,13 @@
   {
    "id": 1913,
    "date": "01/12/25",
-   "sender": "Veterano #111",
-   "text": "Como disse, sou advogado e tenho ajuizado ação de indenização de férias não gozadas para colegas que firam pra reserva.",
-   "urls": [],
-   "category": "juridico",
-   "title": "Como disse, sou advogado e tenho ajuizado ação de indenização de férias não gozadas para colegas que firam pra reserva.",
+   "sender": null,
+   "text": "Tem que amarrar o tênis no final",
+   "urls": [
+    "https://vm.tiktok.com/ZGduxHKWL/"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Old Man Test",
    "icon": "",
    "replyTo": null
   },
@@ -21389,17 +21407,6 @@
    "replyTo": null
   },
   {
-   "id": 1961,
-   "date": "02/12/25",
-   "sender": "Veterano #171",
-   "text": "Fiz hoje inclusive",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Fiz hoje inclusive",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1962,
    "date": "02/12/25",
    "sender": "TTC+Wagner",
@@ -21455,17 +21462,6 @@
    "replyTo": null
   },
   {
-   "id": 1967,
-   "date": "02/12/25",
-   "sender": "Veterano #13",
-   "text": "Não demora..10 dias úteis",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Não demora..10 dias úteis",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 1968,
    "date": "02/12/25",
    "sender": "Veterano #13",
@@ -21495,7 +21491,7 @@
    "sender": "TTC+André Carvalho",
    "text": "Meus amigos, boa noite.  Para o Porte de Arma é preciso o TAT ainda?",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Meus amigos, boa noite.  Para o Porte de Arma é preciso o TAT ainda?",
    "icon": "",
    "replyTo": null
@@ -21528,7 +21524,7 @@
    "sender": "Veterano #213",
    "text": "Se já tem  a arma é só pedir o porte , porém se tiver mais de 10 na reserva terá que fazer o TAAP",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Se já tem  a arma é só pedir o porte , porém se tiver mais de 10 na reserva terá que fazer o TAAP",
    "icon": "",
    "replyTo": null
@@ -21561,7 +21557,7 @@
    "sender": "Veterano #213",
    "text": "Ja tinha a arma ou pretendende adquirir agora?",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Ja tinha a arma ou pretendende adquirir agora?",
    "icon": "",
    "replyTo": null
@@ -21572,7 +21568,7 @@
    "sender": "Veterano #213",
    "text": "Se for adquirir agora já vai pegar o porte com a validade de 10 anos",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Se for adquirir agora já vai pegar o porte com a validade de 10 anos",
    "icon": "",
    "replyTo": null
@@ -21594,7 +21590,7 @@
    "sender": "Veterano #213",
    "text": "Se não fizer o TAAP vai pegar o porte com a validade até 2028",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Se não fizer o TAAP vai pegar o porte com a validade até 2028",
    "icon": "",
    "replyTo": null
@@ -21605,7 +21601,7 @@
    "sender": "TTC+André Carvalho",
    "text": "Já tenho a arma",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Já tenho a arma",
    "icon": "",
    "replyTo": null
@@ -21695,7 +21691,7 @@
    "urls": [
     "https://www.gov.br/pf/pt-br/assuntos/armas/psicologos/psicologos-crediciados"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "NOVO REGRAMENTO para Porte de Arma de Fogo de militares veteranos.n",
    "icon": "",
    "replyTo": null
@@ -21853,7 +21849,7 @@
    "sender": "TTC-Adsumus CamaradasAnfibios",
    "text": "Credenciado para porte de arma de fogo",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Credenciado para porte de arma de fogo",
    "icon": "",
    "replyTo": null
@@ -22329,30 +22325,6 @@
    "replyTo": null
   },
   {
-   "id": 2048,
-   "date": "08/12/25",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Boa noite Senhores!\nInformo a existência de vaga para TTC no CIAA, na função de fiel de pagamento com experiência.\n\nOs interessados falar comigo no privado.\n\nGrato!",
-   "urls": [],
-   "category": "vagas_ttc",
-   "title": "Boa noite Senhores!",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2049,
-   "date": "09/12/25",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "",
-   "urls": [
-    "https://www.marinha.mil.br/hoteis-de-transito"
-   ],
-   "category": "documentos_dependencia",
-   "title": "",
-   "icon": "",
-   "replyTo": null
-  },
-  {
    "id": 2050,
    "date": "09/12/25",
    "sender": "Veterano #120",
@@ -22388,11 +22360,13 @@
   {
    "id": 2053,
    "date": "09/12/25",
-   "sender": "Veterano #202",
-   "text": "Então é o quê??",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Então é o quê??",
+   "sender": null,
+   "text": "Versão atual",
+   "urls": [
+    "https://robvjesus.github.io/ttc-vets2/"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Balcão de Negócios online",
    "icon": "",
    "replyTo": null
   },
@@ -22548,7 +22522,7 @@
     "https://sigma.marinha.mil.br",
     "https://sigma.dsam.mb"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "MARINHA DO BRASIL",
    "icon": "",
    "replyTo": null
@@ -22641,7 +22615,7 @@
     "https://sigma.marinha.mil.br",
     "https://sigma.dsam.mb"
    ],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "DIRETORIA DE SISTEMAS DE ARMAS DA MARINHA",
    "icon": "",
    "replyTo": null
@@ -22662,11 +22636,13 @@
   {
    "id": 2078,
    "date": "10/12/25",
-   "sender": "Veterano #189",
-   "text": "Boa tarde pessoal alguém sabe informar quando começa e termina o recesso na marinha?",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Boa tarde pessoal alguém sabe informar quando começa e termina o recesso na marinha?",
+   "sender": null,
+   "text": "Primeira versão\n\nhttps://claude.ai/public/artifacts/2d5ccfe5-7ae7-4154-9bb8-bcd98f108abb",
+   "urls": [
+    "https://tinyurl.com/ttcnegocios"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Artefato Balcão de Negócios",
    "icon": "",
    "replyTo": null
   },
@@ -22722,17 +22698,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "Da minha turma",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2084,
-   "date": "10/12/25",
-   "sender": "Veterano #151",
-   "text": "Servi com ele no Ciampa",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Servi com ele no Ciampa",
    "icon": "",
    "replyTo": null
   },
@@ -24623,11 +24588,13 @@
   {
    "id": 2259,
    "date": "20/12/25",
-   "sender": "Veterano #176",
-   "text": "Essas são as vagas para CTR esse ano.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Essas são as vagas para CTR esse ano.",
+   "sender": null,
+   "text": "Rotas aéreas",
+   "urls": [
+    "https://www.flightaware.com/live/flight/RYR4042"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Flight Aware",
    "icon": "",
    "replyTo": null
   },
@@ -24810,11 +24777,13 @@
   {
    "id": 2276,
    "date": "27/12/25",
-   "sender": "Veterano #155",
-   "text": "Bom dia senhores ADMs, gostaria de pedir pelo meu amigo de turma que esta precisando tirar umas dúvidas e gostaria muito de fazer parte de Grupo,  que tem ajudado e edificado muitas pessoas. Eu na verdade só tenho agradecer aos senhores membros desse grupo. Obrigado e um feliz ano novo pra todos. Um forte abraço",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom dia senhores ADMs, gostaria de pedir pelo meu amigo de turma que esta precisando tirar umas dúvidas e gostaria muito de fazer parte de Grupo,  que…",
+   "sender": null,
+   "text": "",
+   "urls": [
+    "https://claude.ai/referral/uhGP_-SoJA?s=android"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Claude AI",
    "icon": "",
    "replyTo": null
   },
@@ -25021,11 +24990,13 @@
   {
    "id": 2296,
    "date": "30/12/25",
-   "sender": "TTC+Silvio",
-   "text": "3 SG pra baixo",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "3 SG pra baixo",
+   "sender": null,
+   "text": "Antissemitismo suíço",
+   "urls": [
+    "https://www.instagram.com/reel/DbODhbaxjiM/?igsh=amZlbHF3bHU3dm4w"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Antissemitismo suíço",
    "icon": "",
    "replyTo": null
   },
@@ -25142,11 +25113,13 @@
   {
    "id": 2307,
    "date": "02/01/26",
-   "sender": "5521-X-Jorge de Mesquita Barros",
-   "text": "Muito chato todo início de mês essa mesma resenha sem sentido algum. Mais de 30 mensagens sobre se o PG caiu ou não. Eu tenho uns 36 anos de Marinha e só me recordo de um mês o PG atrasar. O pessoal tem que ter paciência e aguardar um pouco o BP fala o dia que o PG vai cair.\nEspero não ter que falar mais sobre isso mês que vem.\nADMIN",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Muito chato todo início de mês essa mesma resenha sem sentido algum. Mais de 30 mensagens sobre se o PG caiu ou não. Eu tenho uns 36 anos de Marinha e…",
+   "sender": null,
+   "text": "Condomínio do novo apartamento em Recife",
+   "urls": [
+    "https://www.instagram.com/reel/DbWWCTgJVLq/?igsh=YXRjYXg5NG45dHE0"
+   ],
+   "category": "alojamento_hospedagem",
+   "title": "Obra do novo condomínio",
    "icon": "",
    "replyTo": null
   },
@@ -25354,7 +25327,7 @@
    "sender": "Veterano #128",
    "text": "Bom dia \nTenho uma arma registrada de marinha etc gostaria de brasonar a mesma qual os procedimentos. Alguém poderia me ajudar? obrigado.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Bom dia",
    "icon": "",
    "replyTo": null
@@ -25376,7 +25349,7 @@
    "sender": "Veterano #151",
    "text": "Bom dia \nTenho uma arma registrada de marinha etc gostaria de brasonar a mesma qual os procedimentos. Alguém poderia me ajudar? obrigado.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Bom dia",
    "icon": "",
    "replyTo": null
@@ -25420,7 +25393,7 @@
    "sender": "Veterano #151",
    "text": "Não se brasona arma. A arma vem de fábrica já brasonada.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Não se brasona arma. A arma vem de fábrica já brasonada.",
    "icon": "",
    "replyTo": null
@@ -25433,17 +25406,6 @@
    "urls": [],
    "category": "diversos_texto",
    "title": "O brasão indica que a arma peretence à corporação. Há casos em que armas são presenteadas ou vendidas pela corporação e já vem com o brasão gravado.",
-   "icon": "",
-   "replyTo": null
-  },
-  {
-   "id": 2334,
-   "date": "05/01/26",
-   "sender": "Veterano #128",
-   "text": "Agradeço as informações sobre brasonar armas.",
-   "urls": [],
-   "category": "diversos_texto",
-   "title": "Agradeço as informações sobre brasonar armas.",
    "icon": "",
    "replyTo": null
   },
@@ -26359,7 +26321,7 @@
    "sender": "Veterano #43",
    "text": "Boa tarde Sres. INF aos veteranos, possuidores de CRAF/PAF,  que foram transferidos para a Reserva recentemente, sobre a necessidade de substituição do \"Porte\", sob pena de serem enquadrados no crime de posse ilegal de arma!!!",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Boa tarde Sres. INF aos veteranos, possuidores de CRAF/PAF,  que foram transferidos para a Reserva recentemente, sobre a necessidade de substituição d…",
    "icon": "",
    "replyTo": null
@@ -32111,10 +32073,10 @@
    "id": 2938,
    "date": "26/02/26",
    "sender": "TTC-🍺Flavio Lima 🎣",
-   "text": "Bom Dia a Todossss\n\n   Na área Rio, por acaso alguém fez pedido de autorização de arma de fogo recente?",
+   "text": "Bom Dia a Todos\n\nNa área Rio, por acaso alguém fez pedido de autorização de arma de fogo recente?",
    "urls": [],
-   "category": "diversos_texto",
-   "title": "Bom Dia a Todossss",
+   "category": "porte_de_armas",
+   "title": "Bom Dia a Todos",
    "icon": "",
    "replyTo": null
   },
@@ -32146,7 +32108,7 @@
    "sender": "Veterano #85",
    "text": "Tem alguém no grupo querendo passar uma arma",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Tem alguém no grupo querendo passar uma arma",
    "icon": "",
    "replyTo": null
@@ -35172,7 +35134,7 @@
    "sender": "TTC-Adelson",
    "text": "PORTARIA DGMM/MB Nº 4, DE 11 DE MARÇO DE 2026\nAprova a Norma de procedimentos para\naquisição, registro e porte de armas de fogo na\nMarinha do Brasil.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "PORTARIA DGMM/MB Nº 4, DE 11 DE MARÇO DE 2026",
    "icon": "",
    "replyTo": null
@@ -35216,7 +35178,7 @@
    "sender": "Veterano #10",
    "text": "Boa tarde, o que mudou foi a implantação do Sistema de Gerenciamento Militar de Armas da Marinha versão WEB (SIGAM-MB\nWEB), onde poderemos tramitar eletronicamente as solicitações.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Boa tarde, o que mudou foi a implantação do Sistema de Gerenciamento Militar de Armas da Marinha versão WEB (SIGAM-MB",
    "icon": "",
    "replyTo": null
@@ -35326,7 +35288,7 @@
    "sender": "Gilsomar Nunes Lopes👮🏻♂️",
    "text": "RESUMÃO \nDGMM/MB Nº 4, de 11 de março de 2026 (Normas para a aquisição, o registro e o porte de armas de fogo e munições de uso particular para militares da Marinha do Brasil).\n\n\n1. Sistemas de Controle e Acesso\n\nSIGMA-MB WEB: É o sistema oficial onde os militares devem tramitar todas as suas solicitações (aquisição, registro, porte, transferência, etc.).\n\n2. Limites de Aquisição\n\nArmas: Militares habilitados podem possuir até seis armas de fogo, sendo no máximo cinco de uso restrito.\n\n\nMunições: O limite é de até 600 munições por ano para cada arma cadastrada no SIGMA-MB WEB.\n\n\nRestrições: É proibida a aquisição de armas automáticas ou portáteis de alma raiada com energia cinética superior a 1.750 joules.\n\n3. Habilitação e Impedimentos\n\nRequisitos: O militar deve estar em pleno gozo de suas faculdades mentais e não possuir restrições psiquiátricas.\n\n4. Porte de Arma de Fogo (PAFP)\n\nOficiais e Praças Estáveis: Têm direito ao porte garantido por lei.\n\nInativos (RM1/Refº): Devem apresentar o Laudo de Aptidão Psicológica (TAAP) a cada dois anos para manter a autorização.\n\n5. Taxas e Procedimentos\n\nCustos: A autorização para aquisição custa R$ 25,00 (Código 41) e a Guia de Tráfego (GTPF) custa R$ 8,00 (Código 66).\n\n\nIsenção: Os militares estão isentos da taxa de registro e de renovação do porte.\n\n\nSegurança: É obrigatória a declaração de que a residência possui cofre ou local seguro com tranca para armazenamento do armamento.\n\n6. Outras Situações\n\nExtravio: Em caso de furto, roubo ou perda, o militar deve comunicar o fato via SIGMA-MB WEB, preferencialmente em até 48 horas.\n\n\nTransferência: Pode ser feita após três anos da aquisição (em caso de compra na indústria nacional ou comércio).\n\n\nRecolhimento: O militar pode, a qualquer tempo, entregar voluntariamente sua arma à Marinha (como doação) ou à Polícia Federal (mediante indenização).\n\nEsta norma entra oficialmente em vigor no dia 1º de abril de 2026.",
    "urls": [],
-   "category": "juridico",
+   "category": "porte_de_armas",
    "title": "RESUMÃO",
    "icon": "",
    "replyTo": null
@@ -35348,7 +35310,7 @@
    "sender": "TTC-🍺Flavio Lima 🎣",
    "text": "O meu cadastro, fiz presencialmente no 1DN no setor de armas e registros. Foi no início  de dezembro",
    "urls": [],
-   "category": "documentos_dependencia",
+   "category": "porte_de_armas",
    "title": "O meu cadastro, fiz presencialmente no 1DN no setor de armas e registros. Foi no início  de dezembro",
    "icon": "",
    "replyTo": null
@@ -35704,7 +35666,7 @@
    "sender": "Veterano #213",
    "text": "Do dia que vc dava entrada no processo de aquisição, a entrega do armamento com o CRAF/PORTE , ano passado estava de 8 a 10 meses, com esse novo sistema deve ter diminuído o tempo.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Do dia que vc dava entrada no processo de aquisição, a entrega do armamento com o CRAF/PORTE , ano passado estava de 8 a 10 meses, com esse novo siste…",
    "icon": "",
    "replyTo": null
@@ -44917,7 +44879,7 @@
    "sender": "Veterano #12",
    "text": "Eu falei isso porque a última que marquei em Niterói demorou. A alegação é que os oftalmologistas estão indo embora das forças armadas.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "saude_atendimento",
    "title": "Eu falei isso porque a última que marquei em Niterói demorou. A alegação é que os oftalmologistas estão indo embora das forças armadas.",
    "icon": "",
    "replyTo": null
@@ -45170,7 +45132,7 @@
    "sender": "TTC-Álvaro Nogueira",
    "text": "Participo que sua guia será avaliada e após iremos confeccionar, no prazo máximo de 05 dias.\nInformo que *terças, quartas e quintas-feiras ( próxima semana) uteis* de 13h às 15h estarão disponíveis para retirada. O sr(a) deverá trazer o pedido original para ser carimbado e anexado à guia.\n*OBS*: Após 30 dias da confecção, a guia perderá validade, e o paciente deverá solicitar, via WHATSAPP, um novo processo de confecção de GAU.\n\n*IINFORMATIVO*\nConforme o BONO, Nº 13 DE 21 DE JANEIRO DE 2026:\nA partir de 01 de fevereiro de 2026, o valor das indenizações dos atendimentos realizados por Organizações de Saúde Extra-Marinha (OSE), no Brasil e no Exterior, passará a ser calculado com base no valor da nota fiscal do serviço contratado, com um percentual de 20% do valor para titulares e dependentes diretos e 100% para dependentes indiretos. Para os atendimentos realizados nas Organizações de Saúde da própria Marinha e das demais Forças, a base de cálculo permanece sendo o Catálogo de Indenização dos Serviços de Saúde das Forças Armadas (CISSFA).",
    "urls": [],
-   "category": "juridico",
+   "category": "saude_atendimento",
    "title": "Participo que sua guia será avaliada e após iremos confeccionar, no prazo máximo de 05 dias.",
    "icon": "",
    "replyTo": null
@@ -45913,7 +45875,7 @@
    "sender": "Veterano #29",
    "text": "Bom dia. Sou Fuzileiro da reserva e gostaria de orientações para ter o porte de arma.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Bom dia. Sou Fuzileiro da reserva e gostaria de orientações para ter o porte de arma.",
    "icon": "",
    "replyTo": null
@@ -47005,7 +46967,7 @@
    "sender": "Veterano #155",
    "text": "Boa tarde veteranos, gostaria de pedir gentilmente se alguém tem o telefone  do setor de Recadastramento do 1⁰ DN que trata sobre o Porte de Arma. Ainda não consegui porque na época estava resolvendo uns problemas particulares e agora estou um pouco solecado para ir até o 1⁰ DN. Desde já obrigado veteranos.",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "Boa tarde veteranos, gostaria de pedir gentilmente se alguém tem o telefone  do setor de Recadastramento do 1⁰ DN que trata sobre o Porte de Arma. Ain…",
    "icon": "",
    "replyTo": null
@@ -47027,7 +46989,7 @@
    "sender": "TTC-🍺Flavio Lima 🎣",
    "text": "A primeira  coisa a se fazer, é ir no 1ºDN (setor Registro de Armas) para cadastrar sua conta no SIGMA-MB-WEB. Depois vc pode fazer TUDO em casa",
    "urls": [],
-   "category": "diversos_texto",
+   "category": "porte_de_armas",
    "title": "A primeira  coisa a se fazer, é ir no 1ºDN (setor Registro de Armas) para cadastrar sua conta no SIGMA-MB-WEB. Depois vc pode fazer TUDO em casa",
    "icon": "",
    "replyTo": null
@@ -49357,6 +49319,17 @@
    "icon": "",
    "replyTo": null,
    "title": "Grupo TTC-Chat"
+  },
+  {
+   "id": "c1786997527080",
+   "date": "17/08/2026",
+   "sender": null,
+   "text": "Meu amigo, o seu porte na ativa deveria ser substituído quando passaste para a reserva. Na situação em que se encontra pode ser enquadrado como porte ilegal. Contate o seu DN mais próximo de você.",
+   "urls": [],
+   "category": "porte_de_armas",
+   "icon": "",
+   "replyTo": 189,
+   "title": "Porte de arma"
   }
  ]
 }
